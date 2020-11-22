@@ -1,0 +1,1548 @@
+country,HPC,manufacture,year
+China,Tianhe-1 - NUDT TH-1 Cluster,NUDT,2010
+United States,Zeus - Cray XE6 12-core 2.0 GHz,Cray/HPE,2010
+United States,Grendel - PowerEdge 1950,Dell EMC,2010
+China,Cluster Platform 3000 BL460c G1,HPE,2010
+United Kingdom,WillowA - Bullx B500 Blade system,Atos,2010
+United Kingdom,WillowB - Bullx B500 Blade system,Atos,2010
+United States,Saguaro 2 - PowerEdge M100e/M600,Dell EMC,2010
+Canada,xSeries x3650M2 Cluster,IBM,2010
+Canada,Orcinus - Cluster Platform 3000 BL2x220,HPE,2010
+Germany,BladeCenter HS21 Cluster,IBM,2010
+India,Cluster Platform 3000 BL460c G6,HPE,2010
+Switzerland,Seis-3 - Dalco r2164i Cluster,DALCO AG Switzerland,2010
+United Kingdom,BlueCrystal - xSeries x3450 Cluster Xeon quad core,ClusterVision/IBM,2010
+United States,Topsail - PowerEdge 1955,Dell EMC,2010
+Japan,Fujitsu FX1,Fujitsu/SNI,2010
+India,Cluster Platform 3000 BL460c,HPE,2010
+United States,PowerEdge 1950,Dell EMC,2010
+Germany,CSC-FUCHS - ClusterVision Cluster,ClusterVision,2010
+Finland,Vuori - Cluster Platform 4000 BL465c,HPE,2010
+United States,Intel-SCTO-HPC2A - Cluster Platform 3000 BL460c,HPE,2010
+Italy,Cluster Platform 3000 BL460c G1,HPE,2010
+United Kingdom,Cluster Platform 3000 BL2x220,HPE,2010
+Netherlands,Stella - eServer Blue Gene Solution,IBM,2010
+Austria,xSeries x3650 Cluster Xeon QC GT 2.66 GHz,IBM,2010
+United States,Minos - Appro Xtreme Server - Quad Opteron Dual Core 2.4GHz Infiniband,Cray/HPE,2010
+United States,Arev - SunBlade x6250,Oracle,2010
+Netherlands,Millipede - ClusterVision Cluster,ClusterVision,2010
+United States,Steele - PowerEdge 1950,Dell EMC,2010
+Turkey,xSeries x3650M2 Cluster,IBM,2010
+United States,Marylou5 - Dell PowerEdge M610 Cluster,Dell EMC,2010
+United States,Jet - NOW Cluster - Intel Xeon 51xx/E54xx 2.8 Ghz,Raytheon-Aspen Systems/Appro,2010
+United Kingdom,Cluster Platform 3000 BL460c G5,HPE,2010
+Finland,Cluster Platform 3000 BL460c G1,HPE,2010
+New Zealand,Power 575,IBM,2010
+Germany,Cray XT6m 12-Core 1.9 GHz,Cray/HPE,2010
+United Kingdom,Blackthorn - Bullx B500 Blade system,Atos,2010
+United States,Intel-ORTO-HPC2A - Cluster Platform 3000 BL460c,HPE,2010
+South Africa,Tsessebe - SunBlade X6275 and X6250,Dell/Oracle,2010
+Canada,eServer pSeries p5 575 1.9 GHz,IBM,2010
+Sweden,Cluster Platform 3000 BL460c G1,HPE,2010
+Ireland,SGI Altix ICE 8200EX,HPE,2010
+Russia,Cluster Platform 3000 BL460c,HPE,2010
+Canada,SAW - Cluster Platform 3000 BL260c G5,HPE,2010
+Israel,BladeCenter HS21 Cluster,IBM,2010
+France,BladeCenter HS21 Cluster,IBM,2010
+United Kingdom,BladeCenter HS21 Cluster,IBM,2010
+Israel,xSeries x3450 Cluster Xeon quad core,IBM,2010
+United States,xSeries x3650 Cluster Xeon QC HT 2.66 GHz,IBM,2010
+United States,Kraken XT5 - Cray XT5-HE Opteron 6-core 2.6 GHz,Cray/HPE,2010
+Russia,Lomonosov - T-Platforms T-Blade2,T-Platforms,2010
+United Kingdom,HECToR - Cray XT6 12-Core 2.1 GHz,Cray/HPE,2010
+Sweden,Cluster Platform 3000 BL460c,HPE,2010
+United States,HPC - PowerEdge 1950/SunFire X2200/iDataPlex/IBM dx340  Intel 53xx/54xx 2.33Ghz,Dell/Sun/IBM,2010
+Japan,TSUBAME Grid Cluster with CompView TSUBASA - Sun Fire x4600/x6250,NEC/Sun,2010
+Sweden,Cray XT6m 12-Core 2.1 GHz,Cray/HPE,2010
+United States,BladeCenter QS22/LS21 Cluster,IBM,2010
+United States,Lonestar - PowerEdge 1955,Dell EMC,2010
+Saudi Arabia,Cluster Platform 3000 BL460c,HPE,2010
+United States,R Smarr - Dell DCS CS23-SH,Dell EMC,2010
+United States,Discover 2 - iDataPlex,IBM,2010
+Japan,GRAPE-DR cluster 100 node - GRAPE-DR accelerator Cluster,Self-made,2010
+Japan,xSeries x3650M2 Cluster Xeon QC GT 2.66 GHz,IBM,2010
+Saudi Arabia,PowerEdge 1950,DELL/ACS,2010
+Spain,Cluster Platform 3000 BL2x220,HPE,2010
+Poland,Galera - ACTION Cluster Xeon E5345 Infiniband,ACTION,2010
+India,"""PARAM Yuva"" Cluster - PARAMcluster",HPE,2010
+Russia,xSeries x3650M2 Cluster,IBM,2010
+United States,J/Psi - Koi 1021TM-INF+B Twin,Koi Computers,2010
+Japan,Cluster Platform DL4x170h Xeon E5550 QC 2.66,HPE,2010
+Poland,Reef - Cluster Platform 3000 BL2x220,HPE,2010
+Germany,Cluster Platform 4000 BL465c,HPE,2010
+Canada,Rackable(tm) C2112-4TY14 Cluster,HPE,2010
+Germany,Cluster Platform 3000 BL460c,HPE,2010
+Slovenia,BladeCenter HS21 Cluster,IBM,2010
+United States,Atlas - Appro Xtreme Server - Quad Opteron Dual Core 2.4GHz Infiniband,Cray/HPE,2010
+Ireland,Stokes - SGI Altix ICE 8200EX,HPE,2010
+Spain,Cluster Platform 3000 BL460c G1,HPE,2010
+United States,Gladiator - Dell Poweredge R610,Dell EMC,2010
+Italy,Cluster Platform 3000 BL2x220,HPE,2010
+Austria,Vienna Scientific Cluster - Sun Blade x2270,Oracle,2010
+Norway,Cluster Platform 3000 BL460c G6,HPE,2010
+United States,Sapphire - Cray XT3,Cray/HPE,2010
+China,Cluster Platform 3000 BL480c,HPE,2010
+United States,Queen Bee - PowerEdge 1950,Dell EMC,2010
+Japan,PRIMERGY BX922 S2,Fujitsu,2010
+United States,BladeCenter HS21/HS22 Cluster,IBM,2010
+Japan,GRAPE-DR cluster 81 node - GRAPE-DR accelerator Cluster,Self-made,2010
+Sweden,Matter - Cluster Platform SL170z,HPE,2010
+United States,EcoG - Hybrid Cluster Core i3 2.93Ghz Dual Core,Self-made,2010
+United States,Cluster Platform 4000 BL465c G5,HPE,2010
+Germany,ATLAS - Pyramid Cluster Xeon QC 32xx 2.4 GHz,Pyramid Computer,2010
+Russia,xSeries x3650M2 Cluster Xeon QC GT 2.53 GHz,IBM,2010
+United States,Cluster Platform 3000 BL490c/BL460c,HPE,2010
+Singapore,Fuji - BX900 Xeon X5570 2.93GHz,Fujitsu,2010
+United States,Odyssey - PowerEdge M600 Cluster,Dell EMC,2010
+Hong Kong,BladeCenter HS22 Cluster,IBM,2010
+Netherlands,xSeries x3650M2 Cluster Xeon QC GT 2.53 GHz,IBM,2010
+United Kingdom,SGI Altix ICE 8200EX Xeon X5570/X5670 4/6-core 2.93 GHz,HPE,2010
+France,Cluster Platform 3000 BL260c G5,HPE,2010
+Norway,Stallo - Cluster Platform 3000 BL460c,HPE,2010
+United States,Hyperion - Dell DCS Xanadu 2.5,Dell EMC,2010
+United States,Titan - Dell DCS Xanadu 2.5,Dell EMC,2010
+United States,Ansel - Dell Xanadu 3 Cluster,Dell EMC,2010
+New Zealand,Cluster Platform 3000 BL2x220,HPE,2010
+Germany,Cluster Platform 3000 BL460c G1,HPE,2010
+India,Cluster Platform 3000 SL2x170z,HPE,2010
+Japan,PRIMERGY RX200S5 Cluster,Fujitsu,2010
+China,Tianhe-1A - NUDT TH MPP,NUDT,2011
+China,Nebulae - Dawning TC3600 Blade,Sugon,2011
+United States,Cielo - Cray XE6 8-core 2.4 GHz,Cray/HPE,2011
+United States,Hopper - Cray XE6 12-core 2.1 GHz,Cray/HPE,2011
+United Kingdom,HECToR - Cray XE6 12-core 2.1 GHz,Cray/HPE,2011
+Sweden,Lindgren - Cray XT6m 12-Core 2.1 GHz,Cray/HPE,2011
+China,Mole-8.5 - Mole-8.5 Cluster Xeon L5520 2.26 Ghz,"IPE, Nvidia, Tyan",2011
+United States,Jaguar - Cray XT4 QuadCore 2.1 GHz,Cray/HPE,2011
+Switzerland,Monte Rosa - Cray XT5 SixCore 2.4 GHz,Cray/HPE,2011
+United States,HPC - PowerEdge 1950/SunFire X2200/IBM dx340/dx360/HP SL160,Dell/Sun/IBM,2011
+United States,Athena - Cray XT4 QuadCore 2.3 GHz,Cray/HPE,2011
+Poland,Zeus - Cluster Platform 3000 BL2x220,HPE,2011
+United States,Edge - Appro GreenBlade Cluster Xeon X5660 2.8Ghz,Cray/HPE,2011
+United Kingdom,HECToR - Cray XT4,Cray/HPE,2011
+United States,Palmetto - PowerEdge 1950/SunFire X2200/iDataPlex/IBM dx340  Intel 53xx/54xx 2.33Ghz,Dell/Sun/IBM,2011
+United States,Blue Gene/Q Solution Prototype 2,IBM,2011
+United States,Hera - Cray XE6 12-core 2.1 GHz,Cray/HPE,2011
+United States,Tuna - Cray XT6 12-Core 2.0/2.1/2.2 GHz,Cray/HPE,2011
+Netherlands,Power 575,IBM,2011
+Germany,Baku - NEC HPC 140Rb-1 Cluster,NEC,2011
+Germany,Cluster Platform 4000 BL685c G7,HPE,2011
+Japan,T2K Open Supercomputer/Kyodai - Fujitsu Cluster HX600,Fujitsu,2011
+Japan,PRIMERGY RX200 S6,Fujitsu,2011
+Australia,SOLAR - Sun Blade x6048,Oracle,2011
+Switzerland,Schrdinger Cluster - Sun Blade x6275,Oracle,2011
+Canada,Power 575,IBM,2011
+United States,Conejo - SGI Altix XE 1300 Cluster Solutions,HPE,2011
+United Kingdom,Cluster Platform 3000 BL460c,HPE,2011
+Switzerland,Blue Gene/P Solution,IBM,2011
+United States,Blue Gene/P Solution,IBM,2011
+Germany,Genius - Blue Gene/P Solution,IBM,2011
+Canada,iDataPlex,IBM,2011
+Russia,SKIF MSU - T-Platforms T60,SKIF/T-Platforms,2011
+Sweden,Neolith - Cluster Platform 3000 DL140 Cluster,HPE,2011
+United States,Edward - Cluster Platform 3000 SL2x170z,HPE,2011
+Canada,Cluster Platform SL165z G7,HPE,2011
+United Kingdom,xSeries x3650M2 Cluster,IBM,2011
+United States,Mapache - SGI Altix XE 1300 Cluster Solutions,HPE,2011
+United States,xSeries x3550 Cluster,IBM,2011
+Sweden,Akka - BladeCenter HS21 Cluster,IBM,2011
+France,xSeries x3650M2 Cluster Xeon QC GT 2.66 GHz,IBM,2011
+United States,xSeries x3455 Cluster Opteron,IBM,2011
+United States,Magellan - iDataPlex,IBM,2011
+Russia,xSeries x3650M3,IBM,2011
+United States,HP ProLiant SL390s G7 Xeon X5650,HPE,2011
+United States,xSeries x3650M2 Cluster Xeon QC GT 2.66 GHz,IBM,2011
+Russia,BladeCenter HS22 Cluster,IBM,2011
+Germany,QPACE SFB TR Cluster,IBM,2011
+United States,xSeries x3550M2 Cluster Xeon QC GT 2.26 GHz,IBM,2011
+Germany,Cluster Platform 3000 BL460c G6,HPE,2011
+Taiwan,HP ProLiant SL390s G7 Xeon 4C X5677,HPE,2011
+United States,Cluster Platform SL170z,HPE,2011
+Canada,Cluster Platform 3000 BL460c,HPE,2011
+South Korea,Kraken - HP BL685cG7,HPE,2011
+United States,Ds - Koi 1042G-TF Cluster,Koi Computers,2011
+Japan,SGI Altix ICE 8200EX,HPE,2011
+United States,Cluster Platform 4000 BL465c G6,HPE,2011
+United States,Jaws - PowerEdge 1955,Dell EMC,2011
+Australia,Cluster Platform 3000 BL2x220,HPE,2011
+United States,Cluster Platform 3000 BL460c G1,HPE,2011
+France,CEA-CCRT-Platine - Novascale 3045,Atos,2011
+China,Cluster Platform 3000 BL460c G6,HPE,2011
+Russia,SKIF-Cyberia - T-Platforms T-Blade 1.1/2.0,T-Platforms,2011
+Saudi Arabia,Dell PowerEdge M610 Cluster,ClusterVision/Dell,2011
+Germany,CMCC - Megware Saxonid 6100,MEGWARE,2011
+Singapore,Fuji - BX900 Xeon X5570/X5670 2.93GHz,Fujitsu,2011
+Finland,Cluster Platform 3000 BL460c G6,HPE,2011
+France,Cluster Platform 3000 BL460c G1,HPE,2011
+United States,Rackable(tm) C2005-TY2 Cluster,HPE,2011
+Poland,Cluster Platform 3000 BL2x220,HPE,2011
+United States,Michael J. Muuss Cluster (MJM) - Evolocity II (LS Supersystem) Xeon 51xx 3.0 GHz IB,Linux Networx,2011
+United Kingdom,Cluster Platform 3000 BL460c G6,HPE,2011
+Norway,Cray XT4 QuadCore 2.3 GHz,Cray/HPE,2011
+Ireland,HP DL160 Cluster G6,HPE,2011
+Russia,xSeries x3650 Cluster Xeon QC GT 2.66 GHz,IBM,2011
+United States,DLX - PowerEdge C6100 Cluster,Dell EMC,2011
+United States,Jaguar - Cray XT5-HE Opteron 6-core 2.6 GHz,Cray/HPE,2011
+United States,Pleiades - SGI Altix ICE 8200EX/8400EX,HPE,2011
+United States,Franklin - Cray XT4 QuadCore 2.3 GHz,Cray/HPE,2011
+Brazil,Tup - Cray XT6 12-core 2.1 GHz,Cray/HPE,2011
+Canada,GPC - iDataPlex,IBM/Lenovo,2011
+Poland,Zeus - Cluster Platform 3000 BL 2x220,HPE,2011
+Japan,Hitachi SR16000 Model M1/176,Hitachi,2011
+Russia,MVS-100K - Cluster Platform 3000 BL460c/BL2x220,HPE,2011
+Russia,Cluster Platform 3000 BL2x220,HPE,2011
+United States,Cray XT5 QC 2.3 GHz,Cray/HPE,2011
+United States,ASC Purple - eServer pSeries p5 575 1.9 GHz,IBM,2011
+Australia,CSIRO GPU Cluster - Supermicro Xeon Cluster,Xenon Systems,2011
+Taiwan,Formosa 4 - ASUS ESC4000,Asus,2011
+United States,NNSA/SC Blue Gene/Q Prototype 1,IBM,2011
+Switzerland,Todi - Cray XK6,Cray/HPE,2011
+United States,Cluster Platform 3000 SL2x170z,HPE,2011
+Russia,HP DL160 Cluster G6,HPE,2011
+United States,bluefire - Power 575,IBM,2011
+Japan,Cluster Platform 3000 BL460c G7,HPE,2011
+United States,Cluster Platform 3000 BL2x220,HPE,2011
+Germany,Cluster Platform 3000 BL490c,HPE,2011
+United Kingdom,Cluster Platform 3000 BL460c G1,HPE,2011
+United Kingdom,xSeries x3650 Cluster Xeon QC GT 2.66 GHz,IBM,2011
+United States,Power 750,IBM,2011
+France,Cluster Platform SL2x170z,HPE,2011
+United States,Yale - Omega - Cluster Platform 3000 BL460c G6,HPE,2011
+Poland,Supernova - Cluster Platform 3000 BL2x220,HPE,2011
+Germany,NEC LX-2400 Cluster,NEC,2011
+Japan,Plasma Simulator - Hitachi SR16000 Model L2/128,Hitachi,2011
+Germany,HLRB-II - Altix 4700 1.6 GHz,HPE,2011
+United States,Jade - Cray XT4 QuadCore 2.1 GHz,Cray/HPE,2011
+United States,iDataPlex,IBM,2011
+India,Power 575,IBM,2011
+Germany,Cluster Platform SL165z G7,HPE,2011
+Japan,SHIROKANE - SunBlade x6250,Oracle,2011
+United Kingdom,iDataPlex,IBM,2011
+Austria,Vienna Scientific Cluster - Sun Blade x2270/Supermicro SC827T-R1400,Oracle,2011
+United States,Razor-II - Altus 704 Cluster,"Penguin Computing, Inc.",2011
+United States,Thunderbird - PowerEdge 1850,Dell EMC,2011
+United States,Cluster Platform 3000 SL160z,HPE,2011
+France,Tera-10 - NovaScale 5160,Atos,2011
+United States,xSeries x3650M2 Cluster,IBM,2011
+France,Power 575,IBM,2011
+Singapore,xSeries x3650M2 Cluster Xeon QC GT 2.66 GHz,IBM,2011
+China,HP DL180 Cluster G6,HPE,2011
+China,xSeries x3550M3,IBM,2011
+United States,Coates - Cluster Platform 3000 DL165,HPE,2011
+Switzerland,Brutus - Sun Blade X6440,Oracle,2011
+United Kingdom,UKMO A - Power 575,IBM,2011
+United Kingdom,UKMO B - Power 575,IBM,2011
+United States,Hawk - Altix 4700 1.6 GHz,HPE,2011
+Denmark,Cluster Platform 3000 BL460c G6,HPE,2011
+France,BladeCenter HS22 Cluster,IBM,2011
+Japan,Hitachi SR16000 Model L2/121,Hitachi,2011
+United States,HP ProLiant SL390s G7 Xeon 6C X5680 3.3 Ghz,HPE,2011
+United States,Jaguar - Cray XK6,Cray/HPE,2012
+United States,Pleiades - SGI Altix ICE X/8200EX/8400EX,HPE,2012
+Germany,JUGENE - Blue Gene/P Solution,IBM,2012
+United States,Raptor - Cray XE6 8-core 2.4 GHz,Cray/HPE,2012
+United States,Dark Bridge - Xtreme-X,Cray/HPE,2012
+France,Jade - SGI Altix ICE 8200EX,HPE,2012
+United States,Sandia/Cray Red Storm - Cray XT3/XT4,Cray/HPE,2012
+United States,Gaea - Cray XT6-HE,Cray/HPE,2012
+United States,BlueGene/L - eServer Blue Gene Solution,IBM,2012
+United States,Garnet - Cray XE6 8-core 2.4 GHz,Cray/HPE,2012
+United Kingdom,Blackthorn - Bullx B500 Cluster,Atos,2012
+United States,Discovery - Intel Cluster,Intel,2012
+United States,Keeneland - HP ProLiant SL390s G7 Xeon 6C X5660 2.8Ghz,HPE,2012
+United States,Cray XE6 8-core 2.3 GHz,Cray/HPE,2012
+Japan,GOSAT Research Computation Facility - Asterism ID318,NSSOL / SGI Japan,2012
+United States,HP SL390s/170s  G7,HPE,2012
+United States,Rossmann - HP Cluster Platform 4000 DL165 G7 Cluster,HPE,2012
+United Kingdom,BladeCenter HS22 Cluster (WM),IBM,2012
+United States,HP DL180 Cluster G6,HPE,2012
+China,HP DL160 Cluster G6,HPE,2012
+Spain,ALTAMIRA - iDataPlex DX360M4,IBM,2012
+France,xSeries x3550M3 Cluster,IBM,2012
+United States,Discover - iDataPlex,IBM,2012
+Japan,Hitachi SR16000 Model XM1/108,Hitachi,2012
+United States,eServer Blue Gene Solution,IBM,2012
+United States,Coastal - Dell DCS Xanadu 2.5,Dell EMC,2012
+Spain,Magerit - BladeCenter PS702 Express,IBM,2012
+Canada,iDataPlex DX360M3,IBM,2012
+United States,BlueGene/P,IBM,2012
+United States,xSeries iDataPlex,IBM,2012
+India,Cluster Platform SL390s G7,HPE,2012
+United States,Dawson2 - HP ProLiant SL390s G7 Xeon X5650,HPE,2012
+United States,xSeries x3650M3,IBM,2012
+Russia,Cluster Platform SL390s G7,HPE,2012
+United Kingdom,xSeries x3650M3,IBM,2012
+United Arab Emirates,BuTinah - Cluster Platform SL390/BL2x220,HPE,2012
+United Kingdom,Cluster Platform 3000 BL460c G7,HPE,2012
+United States,Cluster Platform SL170s/160z,HPE,2012
+United States,Abe - PowerEdge 1955,Dell EMC,2012
+China,xSeries x3650M3,IBM,2012
+United States,Hrothgar - Poweredge Cluster,Dell EMC,2012
+Singapore,Cluster Platform SL390s G7,HPE,2012
+United States,Trestles - Appro 1U-1143H Cluster,Cray/HPE,2012
+United States,Columbia - SGI Altix 1.5/1.6/1.66 GHz,HPE,2012
+Germany,BladeCenter HS22 Cluster,IBM,2012
+United Kingdom,Cluster Platform 4000 BL685c G7,HPE,2012
+Poland,Galera Plus - ACTION Xeon HP BL2x220/BL490 E5345/L5640 Infiniband,ACTION,2012
+Ireland,Cluster Platform 3000 BL460c G7,HPE,2012
+Australia,BladeCenter HX5,IBM,2012
+Germany,SuperMIG - BladeCenter HX5,IBM,2012
+Japan,DEGIMA - DEGIMA Cluster,Self-made,2012
+Brazil,Galileu - Sun Blade x6048,Oracle,2012
+Belgium,iDataPlex,IBM,2012
+Japan,xSeries x3650M2 Cluster,IBM,2012
+Poland,Boreas - Power 775,IBM,2012
+Spain,MareNostrum - BladeCenter JS21 Cluster,IBM,2012
+United States,xSeries x3850M2 Cluster Xeon QC GT 2.53 GHz,IBM,2012
+Saudi Arabia,Cluster Platform 3000 BL280c G6,HPE,2012
+Saudi Arabia,PLCI - Dell PowerEdge M610 Cluster,ClusterVision/Dell,2012
+Japan,HP DL160 Cluster G6,HPE,2012
+France,iDataPlex,IBM,2012
+United States,xSeries x3650 Cluster Xeon QC GT 2.66 GHz,IBM,2012
+Sweden,Ekman - PowerEdge SC1435 Dual core Opteron 2.2 GHz,Dell EMC,2012
+South Africa,Tsessebe - Blade X6275/ PowerEdge C6100 Cluster,Dell/Oracle,2012
+Italy,BladeCenter HS23 Cluster,IBM,2012
+United States,Cluster Platform 3000 280c G7,HPE,2012
+United States,Roadrunner - BladeCenter QS22/LS21 Cluster,IBM,2012
+United States,Ranger - SunBlade x6420,Oracle,2012
+France,Manny - Bullx B510,Atos,2012
+United States,Ruby - Cray XC30,Cray/HPE,2012
+United States,Encanto - SGI Altix ICE 8200,HPE,2012
+United States,Cerrillos - BladeCenter QS22/LS21 Cluster,IBM,2012
+Japan,xSeries x3650M3,IBM,2012
+Japan,PRIMERGY RX300 S7,Fujitsu,2012
+United States,Cluster Platform 3000SL SL170s/160z,HPE,2012
+United States,BladeCenter HX5,IBM,2012
+United States,Cluster Platform SL160z,HPE,2012
+France,Frontier2 BG/L - Blue Gene/P Solution,IBM,2012
+Germany,Cluster Platform 3000 BL2x220,HPE,2012
+United Kingdom,xSeries iDataPlex,IBM,2012
+China,iDataPlex DX360M3,IBM,2012
+Mexico,Cluster Platform SL230s Gen8,HPE,2012
+United States,Boomer - Dell R620/R720,Dell EMC,2012
+United States,BGW - eServer Blue Gene Solution,IBM,2012
+India,Virgo - iDataPlex DX360M4,IBM,2012
+United States,Fission - Appro Xtreme-X3 Opteron 2.4GHz,Cray/HPE,2012
+United States,sJet - Appro Xtreme-X Supercomputer,Cray/HPE,2012
+Taiwan,Formosa 5 - Hybrid Cluster,Self-made,2012
+Poland,Rackable C1103-G15,HPE,2012
+Taiwan,Cluster Platform SL230s Gen8,HPE,2012
+United Kingdom,BladeCenter HS22 Cluster,IBM,2012
+France,Cluster Platform 3000 BL460c G6,HPE,2012
+United States,Cluster Platform 3000 DL165,HPE,2012
+France,Layon - Bull bullx super-node S6010/S6030,Atos,2012
+France,Curie fat nodes - Bullx S6010 Cluster,Atos,2012
+Italy,BladeCenter HS22 Cluster,IBM,2012
+China,BladeCenter HS22 Cluster,IBM,2012
+Australia,HP Pod BL2x220,HPE,2012
+United States,Cluster Platform 4000 BL685c G7,HPE,2012
+United States,rzuseq - BlueGene/Q,IBM,2012
+Canada,BGQdev - BlueGene/Q,IBM,2012
+United States,BlueRidge - Appro Xtreme-X Supercomputer,Cray/HPE,2012
+Germany,CHEOPS - Bullx Supernode/Blade  Xeon X5550/X5650 2.66 Ghz,Atos,2012
+United States,Intel IT SCTO HPC A - Cluster Platform 3000 BL460c Gen8,HPE,2012
+United States,Graph - Appro Xtreme-X3 Opteron 2.0GHz,Cray/HPE,2012
+United States,Typhoon - Appro Xtreme Opteron 2 GHz,Cray/HPE,2012
+Japan,Cluster Platform SL230s/SL250s,HPE,2012
+United States,Nimbus - Appro GreenBlade 512X,Cray/HPE,2012
+United States,New York Blue - eServer Blue Gene Solution,IBM,2012
+United States,Blues - Appro Xtreme-X Supercomputer,Cray/HPE,2012
+United Kingdom,N8 - Raackable Cluster,HPE,2012
+United Kingdom,iDataPlex DX360M3,IBM,2012
+United States,BladeCenter HS22 Cluster,IBM,2012
+United States,Mana - Dell PowerEdge M610 Cluster,Dell EMC,2012
+United States,KillDevil - PowerEdge C6100 Cluster,Dell EMC,2012
+Germany,CASE Cluster - Oracle Blade Server X6275,Oracle,2012
+United States,Oakley - Cluster Platform SL390s G7,HPE,2012
+Australia,Cluster Platform 3000 BL460c Gen8,HPE,2012
+United States,Power 575,IBM,2012
+Italy,Power 575,IBM,2012
+Germany,BladeCenter HS22 Cluster (WM),IBM,2012
+United States,Cernan - iDataPlex DX360M4,IBM,2012
+United States,Cluster Platform 3000 BL460c G6,HPE,2012
+Israel,BladeCenter HS22 Cluster,IBM,2012
+Japan,T2K Open Supercomputer - Appro Xtreme-X3 Server - Quad Opteron Quad Core 2.3 GHz,Cray/HPE,2012
+United States,BladeCenter HS21 Cluster,IBM,2012
+Canada,Colosse - Sun Blade x6048,Oracle,2012
+Canada,Orcinus - Cluster Platform 3000 BL 2x220,HPE,2012
+Slovakia,Power 775,IBM,2012
+Finland,Cray XT5/XT4 QC 2.3 GHz,Cray/HPE,2012
+United States,DARPA Trial Subset - Power 775,IBM,2013
+United States,Pleiades - SGI ICE X/8200EX/8400EX,HPE,2013
+Japan,TSUBAME 2.0 - HP ProLiant SL390s G7 Xeon 6C X5670,NEC/HPE,2013
+United States,Raptor - Cray XE6,Cray/HPE,2013
+United States,Zeus - SGI Altix ICE 8400EX,HPE,2013
+Finland,Sisu - Cray Cascade,Cray/HPE,2013
+United States,Cray XE6,Cray/HPE,2013
+Japan,SGI Altix ICE 8400EX Xeon X5570 4-core 2.93 GHz,HPE,2013
+United States,Diamond - SGI Altix ICR 8200 Enh. LX,HPE,2013
+United States,Seneca Data Cluster,Seneca Data,2013
+United Kingdom,Power 575,IBM,2013
+Germany,Power 575,IBM,2013
+China,Cluster Platform 3000 BL460c G7,HPE,2013
+United Kingdom,Cluster Platform 3000 BL280c G6,HPE,2013
+Germany,iDataPlex DX360M3,IBM,2013
+United States,MRAP - Cray XT5 SixCore,Cray/HPE,2013
+United Kingdom,EMERALD - Cluster Platform SL390s G7,HPE,2013
+France,ENER110 - Bullx B510,Atos,2013
+United States,SuperMike-II - Dell PowerEdge C6220,Dell EMC,2013
+Japan,Fujitsu FX1,Fujitsu,2013
+Italy,Aurora - Eurotech Aurora,Eurotech,2013
+United States,Beacon - Appro GreenBlade GB824M,Cray/HPE,2013
+France,Curie hybrid - Bullx B505,Atos,2013
+United States,HP DL180se,HPE,2013
+United States,SGI Altix ICE 8200 Enhanced LX,HPE,2013
+Canada,Lattice - DL170/SL390,HPE,2013
+France,GENCI-CCRT-Titane - BULL Novascale R422-E2,Atos,2013
+United Kingdom,Cluster Platform 4000 BL465c,HPE,2013
+United States,Copper - Cray XE6m-200,Cray/HPE,2013
+Saudi Arabia,PLCI+PLCH - PowerEdge M610 Cluster,Dell EMC,2013
+Germany,SGI Altix ICE 8200EX,HPE,2013
+France,Bull Benchmarks SuperComputer I - Bullx B510,Atos,2013
+South Korea,Chundoong - Chundoong Cluster,ManyCoreSoft,2013
+France,SGI Altix ICE 8200EX,HPE,2013
+United States,Muir - Dell Xanadu 3 Cluster,Dell EMC,2013
+Russia,Uran - ClusterPlatform SL390s/SL270s,HPE,2013
+Poland,Cluster Platform 3000 BL 2x220,HPE,2013
+United Kingdom,Bluecrystal Phase 3 - PowerEdge C8220,ClusterVision,2013
+Japan,Cray XC30,Cray/HPE,2013
+Germany,Cluster Platform 3000 BL490c G7,HPE,2013
+Spain,Bullx B505,Atos,2013
+United Kingdom,xSeries x3550M3 Cluster,IBM,2013
+China,DeepComp 7000,Lenovo,2013
+China,xSeries x3630 Cluster,IBM,2013
+United States,Olympus - Atipa Cluster,Atipa Technology,2013
+United States,Hera - Appro Xtreme-X3 Server - Quad Opteron Quad Core 2.3 GHz,Cray/HPE,2013
+Australia,xSeries x3650M3 Cluster,IBM,2013
+Japan,T2K Open Supercomputer (Todai Combined Cluster) - Hitachi opteron QC 2.3 GHz Myrinet 10G,Hitachi,2013
+Russia,Cluster Platform 3000 BL 2x220,HPE,2013
+Italy,Eurora - Eurotech Aurora HPC 10-20,Eurotech,2013
+Japan,HA8000-tc/HT225,Hitachi,2013
+United States,Edge - Appro GreenBlade Cluster,Cray/HPE,2013
+Russia,SKIF Aurora - SKIF Aurora Platform - Intel Xeon X5680,RSC Group,2013
+Spain,Cluster Platform 3000 BL460c Gen8,HPE,2013
+Germany,VIP - Power 575,IBM,2013
+China,xSeries x3650M2 Cluster Xeon QC,IBM,2013
+China,xSeries x3650M2 Cluster,IBM,2013
+Japan,RIKEN Intergrated Cluster of Clusters,Fujitsu,2013
+Israel,BladeCenter HS22 Cluster (WM),IBM,2013
+Germany,btrzx3 - Saxonid 6300,MEGWARE,2013
+Sweden,Cluster Platform 3000 BL2x220,HPE,2013
+United States,Cluster Platform SL170s,HPE,2013
+United States,Chinook - Cluster Platform 4000 DL185G5,HPE,2013
+United States,Palmetto - PE1950/SF X2200/iDPx/IBM dx340/HP DL165 Intel 53xx/54xx 2.33,Dell/Sun/IBM,2013
+United States,Kraken XT5 - Cray XT5-HE Opteron Six Core 2.6 GHz,Cray/HPE,2013
+United States,Intrepid - Blue Gene/P Solution,IBM,2013
+United States,Dawn - Blue Gene/P Solution,IBM,2013
+Germany,LOEWE-CSC - Supermicro Cluster,Clustervision/Supermicro,2013
+Austria,VSC-2 - Megware Saxonid 6100,MEGWARE,2013
+Germany,Cray XC30,Cray/HPE,2013
+United States,Cluster Platform BL460c/280c G7,HPE,2013
+India,EKA - Cluster Platform 3000 BL460c,HPE,2013
+China,BladeCenter HS22 Cluster (WM),IBM,2013
+Sweden,Abisko - Supermicro H8QG6,Supermicro,2013
+United States,Juno - Appro XtremeServer 1143H,Cray/HPE,2013
+United States,Cherry Creek - Supercmicro F627G3-F Cluster,Supermicro,2013
+Italy,HP ProLiant SL390s G7 Xeon 6C X5650,HPE,2013
+United States,Midway - iDataPlex DX360M4,IBM,2013
+United States,Cluster Platform 3000 BL280c G6,HPE,2013
+Ireland,Cluster Platform SL335s Gen7,HPE,2013
+United States,Cluster Platform 4000 BL465c G7,HPE,2013
+Netherlands,Cluster Platform SL335s Gen7,HPE,2013
+United States,Jet - Raytheon/Aspen Cluster,Raytheon/Aspen Systems,2013
+Japan,Cluster Platform DL360p Gen8,HPE,2013
+Australia,Vayu - Sun Blade x6048,Oracle,2013
+United States,iDataPlex DX360M4,IBM,2013
+France,Manny - Bullx DLC B710 Blades,Atos,2013
+United States,Cray XE6 12-core 2.1 GHz,Cray/HPE,2013
+Japan,xSeries x3650M3 Cluster,IBM,2013
+United States,Hera - Cray XE6,Cray/HPE,2013
+Sweden,Cluster Platform 3000 BL460c/SL250/ML350 Xeon E5-2670 8C 2.600GHz,HPE,2013
+Japan,Earth Simulator - SX-9/E/1280M160,NEC,2013
+United States,Crane - Relion Cluster,"Penguin Computing, Inc.",2013
+China,Cluster Platform 4000 BL685c G7,HPE,2013
+United States,HokieSpeed - SuperServer  2026GT-TRF,Supermicro,2013
+United States,Cluster Platform DL160 Gen8,HPE,2013
+United Kingdom,Cluster Platform DL380p Gen8,HPE,2013
+Russia,MVS-100K - Cluster Platform 3000 BL460c/BL 2x220/SL390,HPE,2013
+France,Blue Gene/P Solution,IBM,2013
+United States,HiPerGator - Dell C6145 Cluster,Dell EMC,2013
+Hong Kong,Cluster Platform SL335s Gen7,HPE,2013
+Canada,Cluster Platform 4000 BL465c,HPE,2013
+Japan,HA-PACS - Xtream-X GreenBlade 8204,Cray/HPE,2014
+Japan,Aterui - Cray XC30,Cray/HPE,2014
+Germany,Gottfried - Cray XC30,Cray/HPE,2014
+Germany,Konrad - Cray XC30,Cray/HPE,2014
+Japan,HA-PACS TCA - Cray 3623G4-SM Cluster,Cray/HPE,2014
+Germany,MOGON - Saxonid 6100,MEGWARE,2014
+Netherlands,Cartesius - Bullx DLC B710 Blades,Atos,2014
+Finland,Sisu - Cray XC30,Cray/HPE,2014
+Austria,VSC-2 - MEGWARE Saxonid 6100,MEGWARE,2014
+South Korea,Cluster Platform DL380p Gen8,HPE,2014
+Belgium,Cluster Platform SL230s Gen8,HPE,2014
+United States,MRI - PowerEdge C6100 Cluster,Dell EMC,2014
+United States,Faenov - Cluster Platform SL230s Gen8,HPE,2014
+United States,HPC - PowerEdge 1950/SunFire X2200/IBM dx340/dx360/HP SL160/DL165,Dell/Sun/IBM,2014
+Italy,iDataPlex DX360M4,IBM,2014
+United States,Cluster Platform 4000 BL685c,HPE,2014
+China,xSeries x3550M3 Cluster,IBM,2014
+United States,Crystal - Cray XC30,Cray/HPE,2014
+Japan,System E - Cray CS300-AC,Cray/HPE,2014
+China,Sunway 4000H Cluster,National Research Center of Parallel Computer Engineering & Technology,2014
+China,xSeries x3650M3 Cluster,IBM,2014
+Germany,Cluster Platform SL230s Gen8,HPE,2014
+United States,xSeries x3550M3 Cluster,IBM,2014
+Italy,iDataPlex DX360M3,IBM,2014
+United States,Cluster Platform SL165z G7,HPE,2014
+Canada,Guillimin Phase 2 - iDataPlex DX360M4,IBM,2014
+China,xSeries x3650 Cluster,IBM,2014
+Ireland,Fionn - SGI ICE X,HPE,2014
+United Kingdom,xSeries x3650M4 Cluster,IBM,2014
+China,Cluster Platform DL388p,HPE,2014
+United Kingdom,WillowA - Bullx B510,Atos,2014
+United Kingdom,WillowB - Bullx B510,Atos,2014
+Canada,Guillimin - iDataPlex DX360M3,IBM,2014
+Canada,Argus - iDataPlex DX360M4,IBM,2014
+Japan,Laurel - Xtreme-X,Cray/HPE,2014
+China,Cluster Platform SL250s Gen8,HPE,2014
+France,Cluster Platform 3000 BL460c Gen8,HPE,2014
+United States,Cluster Platform 3000 BL460c G7,HPE,2014
+Netherlands,Cartesius - Bullx DLC B710/B720 Blades,Atos,2014
+United States,Palmetto2 - Cluster Platform SL250s Gen8,HPE,2014
+Switzerland,Monte Rosa - Cray XE6,Cray/HPE,2014
+Germany,JUROPA - Sun Constellation,Atos,2014
+Japan,Plasma Simulator - Hitachi SR16000 Model M1,Hitachi,2014
+Sweden,Lindgren - Cray XE6,Cray/HPE,2014
+Japan,iDataPlex DX360M4,IBM/Lenovo,2014
+Finland,Cluster Platform SL230s Gen8,HPE,2014
+United States,Deepthought2 - Dell C8220/C8220X Cluster,Dell EMC,2014
+Australia,xSeries x3650M4 Cluster,IBM,2014
+United Kingdom,BladeCenter HS23 Cluster,IBM,2014
+Denmark,iDataPlex DX360M3,IBM,2014
+Japan,SGI ICE 8400EX Xeon X5570 4-core 2.93 GHz,HPE,2014
+Israel,BladeCenter HS23 Cluster,IBM,2014
+United States,xSeries x3650 Cluster,IBM,2014
+Japan,iDataPlex DX360M4,IBM,2014
+Brazil,Grifo06 - Itautec Cluster,Itautec,2014
+United States,Diamond - SGI ICE 8200 Enh. LX,HPE,2014
+Norway,Hexagon - Cray XE6m-200,Cray/HPE,2014
+United States,EL GATO - iDataPlex DX360M4,IBM,2014
+United Kingdom,Blue Wonder - iDataPlex DX360M4,IBM,2014
+United States,Cluster Platform SL335s Gen7,HPE,2014
+United States,Maverick - Cluster Platform SL250s Gen8,HPE,2014
+United States,IBM Flex System x240,IBM,2014
+United States,iDataPlex DX360M3,IBM,2014
+France,Tera-100 Hybrid - Bullx B505,Atos,2014
+Netherlands,Cartesius Accelerator Island - Bullx B515 cluster,Atos,2014
+Germany,HERMIT - Cray XE6,Cray/HPE,2015
+China,Earth System Numerical Simulator - Sugon Cluster TC4600E-LP,Sugon,2015
+United Kingdom,HECToR - Cray XE6,Cray/HPE,2015
+United States,Palmetto2 - Cluster Platform SL250s Gen8/Lenovo NX360M5,HPE,2015
+United States,HPCC - Cluster Platform SL250s Gen8,HPE,2015
+United Kingdom,Power 775,IBM,2015
+South Korea,Haeon - Cray XE6 12-core 2.1 GHz,Cray/HPE,2015
+South Korea,Haedam - Cray XE6 12-core 2.1 GHz,Cray/HPE,2015
+Germany,ForHLR1 - MEGWARE MiriQuid,MEGWARE,2015
+United States,Constance - Supermico SuperServer 6028TP-HTFR,Atipa Technology,2015
+Malaysia,Cluster Platform SL210t,HPE,2015
+Belgium,Zenobe - bullx B500/B510 cluster,Atos,2015
+Poland,ORION - Dell PowerEdge R730,Dell EMC,2015
+South Korea,Cluster Platform DL360p Gen8,HPE,2015
+Germany,Hummel - MEGWARE MiriQuid,MEGWARE,2015
+France,NEMO - Lenovo NeXtScale nx360M5,Lenovo,2015
+United States,IBM Flex System x240,IBM/Lenovo,2015
+Japan,Suiren Blue - ExaScaler-1.4 16Brick,PEZY Computing / Exascaler Inc.,2015
+United States,Crystal - Cray XC40,Cray/HPE,2015
+United States,Cherry Creek - Intel Cluster,Intel,2015
+United States,IBM NeXtScale nx360M4,IBM,2015
+France,IBM NeXtScale nx360M4,IBM,2015
+Australia,Galaxy - Cray XC30,Cray/HPE,2015
+France,Ada - xSeries x3750 Cluster,IBM,2015
+Germany,Emmy - NEC LX-2400,NEC,2015
+Japan,BX900 Xeon X5570 2.93GHz,Fujitsu,2015
+United Kingdom,x3650M4 Cluster,IBM,2015
+Saudi Arabia,Shaheen - Blue Gene/P Solution,IBM,2015
+Russia,Cluster Platform 3000 BL460c Gen8,HPE,2015
+France,BlueGene/Q,IBM,2015
+Switzerland,CADMOS BG/Q - BlueGene/Q,IBM,2015
+Poland,BlueGene/Q,IBM,2015
+Germany,OCuLUS (Owl CLUSter) - Clustervision CV-AIRE5,ClusterVision,2015
+India,SAGA - Z24XX/SL390s Cluster,Hewlett Packard/WIPRO,2015
+United States,Carter - Cluster Platform 3000 SL6500,HPE,2015
+Israel,Cluster Platform 3000 BL460c Gen8,HPE,2015
+United States,Cray CS300-AC,Cray/HPE,2015
+United Kingdom,Darwin - Dell PowerEdge C6220,Dell EMC,2015
+United Kingdom,Cluster Platform SL230s Gen8,HPE,2015
+China,Magic Cube - Dawning 5000A,Sugon,2015
+United States,Storm1 - Cray CS-Storm,Cray/HPE,2015
+France,Cluster Platform 3000 BL2x220,HPE,2015
+Norway,Abel - MEGWARE MiriQuid,MEGWARE,2015
+Taiwan,ALPS - Acer AR585 F1 Cluster,Acer Group,2015
+Sweden,Cluster Platform 3000 BL460c/DL380p,HPE,2015
+United States,Bean - Cray XC40,Cray/HPE,2015
+Russia,RSC PetaStream - RSC PetaStream,RSC Group,2015
+Japan,Cluster Platform 3000 BL460c Gen8,HPE,2015
+Greece,ARIS - IBM NeXtScale nx360M5,IBM,2015
+France,Ivanhoe - iDataPlex,IBM,2015
+United States,BladeCenter HS23 Cluster,IBM,2015
+China,xSeries x3650M4 Cluster,IBM,2015
+United States,BladeCenter HS22 Cluster (WM),IBM,2015
+Sweden,Cluster Platform 3000 BL460c Gen8,HPE,2015
+France,iDataPlex DX360M4,IBM,2015
+United Kingdom,iDataPlex DX360M4,IBM,2015
+Germany,Cluster Platform DL360p Gen8,HPE,2015
+United States,Sierra - Dell Xanadu 3 Cluster,Dell EMC,2015
+Japan,PRIMEHPC FX10,Fujitsu,2015
+Germany,LENOX - Lenovo NeXtScale nx360M5,Lenovo,2015
+United States,Cray XT5 QC 2.4 GHz,Cray/HPE,2015
+United States,xSeries x3650M3 Cluster,IBM,2015
+Germany,SuperMUC Phase 2 - IBM NeXtScale nx360M5,Lenovo/IBM,2015
+United Kingdom,Cray XC30,Cray/HPE,2015
+United States,Hopper - Cray XE6,Cray/HPE,2015
+China,HP DL360 Cluster,HPE,2015
+Japan,Shoubu - ExaScaler-1.4 80Brick,PEZY Computing / Exascaler Inc.,2015
+Poland,Tryton - HP ProLiant XL230a Gen9,Megatel/Action,2015
+France,Prolix2 - Bullx DLC B710 Blades,Atos,2015
+Germany,CooLMUC 2 - IBM NeXtScale nx360M5,Lenovo/IBM,2015
+United States,Gordon - Xtreme-X GreenBlade GB512X,Cray/HPE,2015
+United Kingdom,Apollo 6000 XL2x0a,HPE,2015
+Switzerland,Piz Kesch - Cray CS-Storm,Cray/HPE,2015
+Netherlands,Cluster Platform 3000 BL460c Gen8,HPE,2015
+Japan,Cray XC40,Cray/HPE,2015
+Mexico,ABACUS I - SGI ICE X,HPE,2015
+Japan,HA-PACS TCA - Cray CS300 Cluster,Cray/HPE,2015
+South Korea,TachyonII - Sun Blade x6048,Oracle,2015
+Spain,TEIDE-HPC - Fujitsu PRIMERGY CX250 S1,Fujitsu,2015
+Switzerland,Todi - Cray XK7,Cray/HPE,2015
+United States,Laure - SGI ICE X,HPE,2015
+Japan,Fujitsu PRIMERGY CX250 & RX300,Fujitsu,2015
+United States,HP DL380 Cluster,HPE,2015
+United States,xSeries x3650M4 Cluster,IBM/Lenovo,2015
+United States,Dark Sand - Appro Xtreme-X Supercomputer,Cray/HPE,2015
+United States,Dark Bridge - Appro Xtreme-X Supercomputer,Cray/HPE,2015
+Poland,Zeus - Cluster Platform SL390/BL2x220,HPE,2015
+Bulgaria,Avitohol - Cluster Platform SL230s Gen8,HPE,2015
+Canada,Cluster Platform 3000 BL460c Gen8,HPE,2015
+South Korea,SRD CAE - Cluster Platform SL230s Gen8,HPE,2015
+Canada,GPC - xSeries iDataPlex,IBM/Lenovo,2015
+Japan,TSUBAME-KFC/DL - LX 1U-4GPU/104Re-1G  Cluster,NEC,2015
+India,Cluster Platform SL210t,HPE,2015
+France,EOS - Bullx DLC B710 Blades,Atos,2015
+France,romeo - Bull R421-E3 Cluster,Atos,2015
+Hungary,Leó NIIFI-Debrecen - Cluster Platform SL250s Gen8,HPE,2015
+Japan,Sango - Supermicro SBI-7228R-T2F,Supermicro,2015
+United States,Lonestar 4 - Dell PowerEdge M610 Cluster,Dell EMC,2015
+Japan,Camphor - Cray XE6,Cray/HPE,2015
+Brazil,Grifo04 - Itautec Cluster,Itautec,2015
+Germany,IBM NeXtScale nx360M5,IBM/Lenovo,2015
+France,Cluster Platform 3000 BL460c,HPE,2015
+Germany,CASE-2 - SGI ICE X,HPE,2015
+China,Sugon Cluster TC4600H/W580I,Sugon,2015
+Japan,Hitachi SR16000 Model M1,Hitachi,2015
+France,HP POD - Cluster Platform 3000 BL260c G6,HPE,2015
+China,DLJD - Dell PowerEdge T630,Dell EMC,2015
+Germany,bwForCluster MLS&WISO Production - MEGWARE MiriQuid,MEGWARE,2015
+United States,Cooley - Cray CS300-AC,Cray/HPE,2015
+Canada,Rackable C2112-4G3 Cluster,HPE,2015
+United States,Amazon EC2 Cluster Compute Instances - Amazon EC2 Cluster,Self-made,2015
+United Kingdom,Wilkes - Dell T620 Cluster,Dell EMC,2015
+United States,Cluster Platform SL230s/SL250s,HPE,2015
+United States,Cluster Platform SL241n,HPE,2015
+United States,Moonlight - Xtreme-X,Cray/HPE,2015
+United Kingdom,Cluster Platform SL2500,HPE,2015
+France,Jade - SGI ICE 8200EX,HPE,2015
+Switzerland,Euler 2 - Cluster Platform 3000 BL460c Gen8,HPE,2015
+United States,Loren - Relion 2800GT Cluster,"Penguin Computing, Inc.",2015
+United States,Cluster Platform SL210t,HPE,2015
+Hong Kong,Cluster Platform DL380p Gen8,HPE,2015
+Croatia,BURA - bullx DLC 720,Atos,2015
+United States,Mustang - Xtreme-X 1320H-LANL,Cray/HPE,2015
+United States,iDataPlex DX360M4,IBM/Lenovo,2015
+Japan,Cluster Platform DL160 Gen8,HPE,2015
+United Kingdom,IRIDIS 4 - iDataPlex DX360M4,IBM,2015
+United States,Cluster Platform DL380e Gen8,HPE,2015
+Germany,MOGON - MEGWARE Saxonid 6100,MEGWARE,2015
+Japan,HELIOS - Bullx B515 cluster,Atos,2015
+China,Cluster Platform DL380e Gen8,HPE,2015
+United Kingdom,Blue Wonder - IBM NeXtScale nx360M4,IBM,2015
+Germany,bwForCluster MLS&WISO Development - Dalco H88 Cluster,DALCO AG Switzerland,2015
+Germany,IO - Supermicro Superserver 1027GR-TSF,sysGen,2015
+United States,Cypress - Dell C8220X Cluster,Dell EMC,2015
+Germany,RWTH Compute Cluster (RCC) - Bullx B500 Cluster,Atos,2015
+Germany,Justus bwForCluster - NEC Green Gem Cluster,NEC,2015
+United States,HP DL160 Cluster G6,HPE,2015
+United States,xSeries x3650M4 Cluster,IBM,2015
+Brazil,Tup - Cray XE6,Cray/HPE,2015
+Germany,iDataPlex DX360M4,IBM/Lenovo,2015
+China,Sugon Cluster CB60-G16,Sugon,2015
+United States,Maia - SGI Rackable C1104G-RP5,HPE,2015
+Germany,HLRS2015 - Lenovo NeXtScale nx360M5,Lenovo/IBM,2015
+United States,Riptide - iDataPlex DX360M4,IBM,2015
+Canada,Power 775,IBM,2015
+China,Tianhe-1A Guangzhou Solution - NUDT YH MPP,NUDT,2015
+United Kingdom,Cluster Platform 3000 BL460c Gen9,HPE,2015
+Saudi Arabia,Aziz - Fujitsu PRIMERGY CX400,Fujitsu,2015
+United Kingdom,Cluster Platform 3000 BL460c Gen8,HPE,2015
+Germany,Taurus GPUs - Bull bullx R400,Atos,2015
+United Kingdom,Cluster Platform SL210t,HPE,2015
+China,Cluster Platform DL380p Gen8,HPE,2015
+United States,HP DL360 Cluster,HPE,2015
+Japan,Suiren - ExaScaler 32U256SC Cluster,PEZY Computing / Exascaler Inc.,2015
+Germany,QPACE2 - Aurora Bricks,Eurotech,2015
+Switzerland,Piz Daint - Cray XC30,Cray/HPE,2016
+France,Beaufix - Bullx DLC B710 Blades,Atos,2016
+United States,Cab - Xtreme-X,Cray/HPE,2016
+United States,Luna - Xtreme-X GreenBlade GB512X,Cray/HPE,2016
+France,airain - Bullx B510,Atos,2016
+South Korea,Uri - Cray XC40,Cray/HPE,2016
+India,Cluster Platform SL230s Gen8,HPE,2016
+Japan,Shirokane3 - HP Apollo 6000 Xl230/250,HPE,2016
+United Kingdom,Grace - Lenovo NeXtScale nx360M5,Lenovo,2016
+Japan,Fujitsu PRIMERGY CX400,Fujitsu,2016
+United States,SGI ICE X,HPE,2016
+United States,Cluster Platform 4000 BL465c,HPE,2016
+United States,Pecos - Xtreme-X,Cray/HPE,2016
+United States,Ada - IBM NeXtScale nx360M4,IBM/Lenovo,2016
+Australia,CSIRO GPU Cluster - Nitro G16 3GPU,Xenon Systems,2016
+Germany,BinAC GPU - MEGWARE MiriQuid,MEGWARE,2016
+India,Cluster Platform 3000 BL460c Gen8,HPE,2016
+Belgium,Zenobe - bullx B510/B520,Atos,2016
+United States,Chama - Xtreme-X GreenBlade GB512X,Cray/HPE,2016
+United States,Kilrain - iDataPlex DX360M4,IBM,2016
+United States,Haise - iDataPlex DX360M4,IBM,2016
+Sweden,Bifrost - ClusterVision RS720Q/RS700,ClusterVision,2016
+United States,HP Apollo 6000 Xl230/250,HPE,2016
+United States,Zeus - SGI ICE 8400EX,HPE,2016
+Brazil,Santos Dumont CPU - Bullx B71x,Atos,2016
+United States,Keeneland - Cluster Platform SL250s Gen8,HPE,2016
+United Kingdom,Blackthorn - Bullx B510,Atos,2016
+Australia,Phoenix - Lenovo NeXtScale nx360M5,Lenovo,2016
+India,Cluster Platform SL250s Gen8,HPE,2016
+Germany,ASUS ESC4000 FDR/G2S,"AMD, ASUS, FIAS, GSI",2016
+Finland,Apollo 6000 XL230a,HPE,2016
+China,Cluster Platform 3000 BL460c,HPE,2016
+China,Sugon Cluster W780I,Sugon,2016
+China,VPSystem - Sugon TC6000,Sugon,2016
+Finland,Cluster Platform DL380,HPE,2016
+Japan,magnolia - Cray XC40,Cray/HPE,2016
+Japan,Cluster Platform SL230s Gen8,HPE,2016
+China,IMGSystem - Sugon Cluster,Sugon,2016
+United States,Hercules - iDataPlex DX360M4,IBM,2016
+Germany,Minerva - Clustervision MD30-RS0,Gigabyte/ClusterVision,2016
+China,XingGui - Dell C4130,Dell EMC,2016
+China,CSG 1 - Lenovo x3950,Lenovo,2016
+Germany,LOEWE-CSC - SuperServer 2022TG-GIBQRF,Clustervision/Supermicro,2016
+United States,Atipa Cluster,Atipa Technology,2016
+United States,Gaea C1 - Cray XE6,Cray/HPE,2016
+South Korea,Cluster Platform 3000 BL460c Gen8,HPE,2016
+United States,Cray XE6 12-core 2.2 GHz,Cray/HPE,2016
+China,Magic Cube - II - Sugon Cluster TC4600E,Sugon,2016
+France,Tera-1000-1-Hybrid - Bull R421-E4 Cluster,Atos,2016
+Germany,bwForCluster MLS&WISO Production WAN - MEGWARE MiriQuid,MEGWARE,2016
+Japan,Satsuki - ZettaScaler-1.6,PEZY Computing / Exascaler Inc.,2016
+Russia,Lobachevsky - GPU Blade Cluster,"Niagara Computers, Supermicro",2016
+Russia,RSC Tornado SUSU - RSC Tornado,RSC Group,2016
+France,Occigen - bullx  DLC,Atos,2016
+Australia,Fujitsu PRIMERGY CX250 S1,Fujitsu,2016
+Spain,MareNostrum - iDataPlex DX360M4,IBM,2016
+United States,Zenith - Dell PowerEdge C6320 & Dell PowerEdge R630,Dell EMC,2016
+Germany,QPACE3 - PRIMERGY CX1640 M1,Fujitsu,2016
+France,Manny - bullx DLC 720,Atos,2016
+United Kingdom,Helen - SGI ICE X,HPE,2016
+China,DLJD-2 - Sugon W580-G20/Dell C4130,Dell/Sugon,2016
+United States,SciPhi XVI - KOI Cluster,Koi Computers,2016
+Poland,Świerk Computing Centre - Supermicro TwinBlade SBI-7227R/Bull DLC B720,Atos,2016
+Japan,HA-PACS - Xtreme-X GreenBlade 8204,Cray/HPE,2016
+South Korea,Cluster Platform SL230s Gen8,HPE,2016
+United States,Cluster Platform DL360p Gen8,HPE,2016
+United States,Discover - iDataPlex DX360M4,IBM,2016
+United States,yoda - EXXACT TXR410-768R Cluster,EXXACT Corporation,2016
+Austria,Cluster Platform DL380,HPE,2016
+United States,HPCEE - SGI Rackable C2112-4RP3,HPE,2016
+Denmark,Computerome - Apollo 6000 XL230a,HPE,2016
+United States,Cluster Platform 3000 BL460c,HPE,2016
+Sweden,Triolith - Cluster Platform SL230s Gen8,HPE,2016
+United States,Rice - Cluster Platform DL60,HPE,2016
+China,Era - TC4600H/W580I,Sugon,2016
+Brazil,CIMATEC Yemoja - SGI ICE X,HPE,2016
+United States,Katie - Cray CS-Storm,Cray/HPE,2016
+Japan,HP Apollo XL1x0r,HPE,2016
+Germany,HPC4 - HP POD - Cluster Platform BL460c,HPE,2016
+Norway,SGI ICE X,HPE,2016
+United States,Midway2 - Lenovo NeXtScale nx360M5,Lenovo,2016
+United States,Cluster Platform DL360p,HPE,2016
+Germany,Cluster Platform 3000 BL460c Gen8,HPE,2016
+France,Datarmor - SGI ICE XA,HPE,2016
+India,PARAM Yuva - II - R2208GZ Cluster,Netweb Technologies,2016
+United States,Iceberg - SGI ICE X,HPE,2016
+Japan,camellia - Cray XC30,Cray/HPE,2016
+France,Sequana BXI - Bull Sequana,Atos,2016
+Russia,MVS-10P - RSC Tornado,RSC Group,2016
+Russia,HPC4/HPC5 - SuperMicro Twin^2,SuperMicro/Mellanox,2016
+China,Lenovo x3750,Lenovo,2016
+United States,Cluster Platform SL250s Gen8,HPE,2016
+Switzerland,FusionServer XH620 V3 Cluster,"Huawei Technologies Co., Ltd.",2016
+Germany,CooLMUC 2 - NeXtScale nx360M5,Lenovo/IBM,2016
+China,Cluster Platform DL360p Gen8,HPE,2016
+Germany,Ollie - Cray CS400,Cray/HPE,2016
+Germany,EOS - Cray CS400,Cray/HPE,2016
+Japan,"Supercomputer System for Statistical Science ""I"" - SGI ICE X",HPE,2016
+Brazil,Santos Dumont Hybrid - Bullx B710,Atos,2016
+China,RH1288 V3 Cluster,"Huawei Technologies Co., Ltd.",2016
+China,Lenovo x3850,Lenovo,2016
+China,DLJD - Dell PowerEdge T630/Sugon W580,Dell EMC,2016
+China,Lenovo x240 M5/nx360 M5,Lenovo,2016
+United States,Vesta - BlueGene/Q,IBM,2016
+China,PLearningSystem - Sugon Cluster,Sugon,2016
+China,Sugon TC5000,Sugon,2016
+France,Athos - iDataPlex DX360M4,IBM,2016
+United States,Cluster Platform DL360e Gen8,HPE,2016
+United States,Pershing - iDataPlex DX360M4,IBM,2016
+United States,Stampede2 - PowerEdge C6320P,Dell EMC,2017
+United States,Stampede - PowerEdge C8220,Dell EMC,2017
+Italy,Fermi - BlueGene/Q,IBM,2017
+Japan,Gyoukou - ZettaScaler-2.0 HPC system,ExaScaler,2017
+Germany,JURECA - T-Platforms V-Class,"T-Platforms, Intel, Dell",2017
+Japan,Helios - Bullx B510,Atos,2017
+United States,Electra - SGI ICE X,HPE,2017
+United States,Biowulf - HP Apollo XL1x0r,HPE,2017
+United States,Stampede-KNL - Intel S7200AP Cluster,Dell / Intel,2017
+United States,Endeavor II - Intel Cluster,Intel,2017
+United States,Endeavor I - Intel Cluster,Intel,2017
+Germany,Huawei XH321 V3/XH620 V3 Cluster,"Huawei Technologies Co., Ltd.",2017
+United States,SGI ICE XA,HPE,2017
+Germany,Mogon II - MEGWARE MiriQuid,NEC/MEGWARE,2017
+United States,Discover SCU12 - Rackable Cluster,HPE,2017
+Belgium,BrENIAC - NEC HPC1816Rg,NEC,2017
+United States,Zenith - Dell PowerEdge C6320 & R630,Dell EMC,2017
+Japan,SAKURA - BlueGene/Q,IBM,2017
+Japan,HIMAWARI - BlueGene/Q,IBM,2017
+United States,Laconia - Lenovo NeXtScale nx360M5,Lenovo,2017
+United States,Sky Bridge - Cray CS300-LC,Cray/HPE,2017
+Saudi Arabia,SANAM - Adtech,Adtech,2017
+Germany,NEMO bwForCluster - Dalco H88 Cluster,DALCO AG Switzerland,2017
+India,HP Apollo 6000 Xl230/250,HPE,2017
+Canada,Cluster Platform DL360,HPE,2017
+United Kingdom,Lenovo NeXtScale nx360M5,Lenovo,2017
+United Kingdom,Blue Crystal v4 - Lenovo NeXtScale nx360M5,Lenovo,2017
+France,HPC4 - HP POD - Cluster Platform BL460c,HPE,2017
+United States,Armstrong - Cray XC30,Cray/HPE,2017
+Germany,FusionServer RH1288 V3/XH620 V3,"Huawei Technologies Co., Ltd.",2017
+United Kingdom,Peta4-KNL - PowerEdge C6320,Dell EMC,2017
+France,PORTHOS - IBM NeXtScale nx360M5,IBM,2017
+United States,Bluecrab - Dell PowerEdge R730,Dell EMC,2017
+Germany,Cluster Platform 3000 BL460c Gen9,HPE,2017
+China,Sugon Cluster W580I,Sugon,2017
+United Kingdom,Athena - Huawei X6000,ClusterVision,2017
+China,Mole-8.5 - Mole-8.5 Cluster,"IPE, Nvidia, Tyan",2017
+China,Service Provider A1 - Lenovo RD940,Lenovo,2017
+United Kingdom,JADE - NVIDIA DGX-1,Atos,2017
+South Korea,Cluster Platform DL360,HPE,2017
+Germany,magnitUDE - NEC Cluster,NEC,2017
+Saudi Arabia,Unayzah - Lenovo NeXtScale nx360M5/x3550 M5,Lenovo,2017
+United States,Amazon EC2 C3 Instance cluster - Amazon EC2 Cluster,Self-made,2017
+Denmark,Vestas1 - Lenovo NeXtScale nx360M5,Lenovo,2017
+Germany,Meggie - MEGWARE MiriQuid,MEGWARE,2017
+United States,Cluster Platform 3000 BL460c Gen8,HPE,2017
+United States,Shepard - Cray XC30,Cray/HPE,2017
+United States,Mesabi - HP Apollo 6000 Xl230/250,HPE,2017
+South Korea,iREMB - Cluster Platform DL380,HPE,2017
+United States,Shadow - Cray CS300-LC,Cray/HPE,2017
+Denmark,Abacus 2.0 - Lenovo NeXtScale nx360M5,Lenovo,2017
+United States,Cluster Platform SL390s G7,HPE,2017
+United States,Cluster Platform DL380 Cluster,HPE,2017
+Japan,kukai - ZettaScaler-1.6 GPGPU system,ExaScaler,2017
+United States,Hōkūle’a - IBM Power Systems S822LC,IBM,2017
+Japan,Reedbush-U - Rackable C2112-4GP3 Cluster,HPE,2017
+Australia,Cluster Platform DL360,HPE,2017
+United States,Cluster Platform SL230s Gen8,HPE,2017
+Germany,CARL - Lenovo NeXtScale nx360M5,Lenovo,2017
+Brazil,Santos Dumont GPU - Bullx B710,Atos,2017
+Germany,FusionServer XH620 V3 Cluster,"Huawei Technologies Co., Ltd.",2017
+Italy,HPCC1 - iDataPlex DX360M4,IBM,2017
+China,DPCluster - Sugon TC6000,Sugon,2017
+Brazil,Cluster Platform DL360,HPE,2017
+Germany,QPACE 3 - PRIMERGY CX1640 M1,Fujitsu,2017
+Saudi Arabia,Makman - iDataPlex DX360M4,IBM/Lenovo,2017
+Poland,RH1288 V3 Cluster,"Huawei Technologies Co., Ltd.",2017
+Sweden,Kebnekaise - Lenovo NeXtScale nx360M5,Lenovo,2017
+China,IBM Flex System p460,IBM,2017
+United States,Red Sky - Sun Blade x6275,Oracle,2017
+Japan,Gyoukou - ZettaScaler-2.2 HPC system,ExaScaler,2017
+Germany,JUQUEEN - BlueGene/Q,IBM,2017
+France,Tera-1000-2-Part 1 - Bull Sequana X1000,Atos,2017
+United States,Cielo - Cray XE6,Cray/HPE,2017
+Japan,Oakleaf-FX - PRIMEHPC FX10,Fujitsu,2017
+Japan,Aterui - Cray XC40,Cray/HPE,2017
+Australia,Avoca - BlueGene/Q,IBM,2017
+United States,Owens - Dell PowerEdge C6320/R730,Dell EMC,2017
+United States,Tide - iDataPlex DX360M4,IBM,2017
+United States,Gyre - iDataPlex DX360M4,IBM,2017
+China,Internet Company N C1 - Lenovo RD450,Lenovo,2017
+China,AMSS - Lenovo SD530,Lenovo,2017
+Poland,BEM - Actina Solar 820 S6,ACTION,2017
+Saudi Arabia,Dammam - Dell PowerEdge R630,Dell EMC,2017
+United States,Atipa HPC Linux Cluster,Atipa Technology,2017
+United States,Thor - Cluster Platform 3000 BL460c Gen9,HPE,2017
+France,Occigen2 - bullx DLC 720,Atos,2017
+Italy,GALILEO - IBM NeXtScale nx360M4,IBM/Lenovo,2017
+China,DH-DPSystem - HC2000 Cluster,Sugon,2017
+China,IntelCluster - Sugon TC4600,Sugon,2017
+China,Government K1 - Lenovo NeXtScale nx360M5,Lenovo,2017
+Netherlands,Cluster Platform DL380,HPE,2017
+China,Lenovo RD940,Lenovo,2017
+Russia,Polytechnic RSC Tornado - RSC Tornado,RSC Group,2017
+Japan,RAIDEN GPU subsystem - NVIDIA DGX-1,Fujitsu,2017
+China,EPRI - Sugon TC4600LP,Sugon,2017
+France,Cluster Platform DL360,HPE,2017
+United States,Cluster Platform DL380p Gen8,HPE,2017
+United States,Lenovo ThinkServer RD350G,Lenovo,2017
+United States,HPCC - Cluster Platform SL250s Gen8/Lenovo nx360M5,HPE,2017
+Sweden,Cluster Platform 3000 BL460c Gen9,HPE,2017
+China,Lenovo x3650,Lenovo,2017
+Italy,DAVIDE - E4 OP206 cluster,E4 Computer Engineering S.p.A.,2017
+India,Cluster Platform 3000 BL460c Gen9,HPE,2017
+China,CH121 V3 Cluster,"Huawei Technologies Co., Ltd.",2017
+Australia,OzSTAR - PowerEdge R740,Dell EMC,2017
+United States,Caliburn - FatTwin SuperServer,Supermicro,2017
+Ireland,Cluster Platform DL380,HPE,2017
+United States,Big Red II - Cray XK7,Cray/HPE,2017
+Austria,VSC-3 - Oil blade server,ClusterVision,2017
+China,Lenovo x3550,Lenovo,2017
+United States,HPE SGI 8600,HPE,2017
+China,Lenovo RD350,Lenovo,2017
+Japan,Cray XC40 - Cray XC40,Cray/HPE,2017
+China,Lenovo RD650,Lenovo,2017
+France,Sator - NEC HPC1812-Rg-2,NEC,2017
+China,MLSystem - Sugon TC6000,Sugon,2017
+United Kingdom,Cluster Platform DL360,HPE,2017
+Austria,Cluster Platform DL360,HPE,2017
+Finland,Cluster Platform DL360,HPE,2017
+United States,Gaea C2 - Cray XE6,Cray/HPE,2017
+India,TIFR - Cray XC30,Cray/HPE,2017
+Germany,CLAIX (Phase I,NEC,2017
+China,Huawei  Cluster RH2288H V2,"Huawei Technologies Co., Ltd.",2017
+United States,SuperMIC - Dell C8220X Cluster,Dell EMC,2017
+China,DLSystem - Sugon W580-G20,Sugon,2017
+Mexico,Cluster Platform DL380,HPE,2017
+New Zealand,Apollo 6000 XL230a,HPE,2017
+United States,Discover SCU11 - Rackable Cluster,HPE,2017
+Japan,AI Bridging Cloud Infrastructure (ABCI) - PRIMERGY CX2550 M4,Fujitsu,2018
+United States,Electra - HPE SGI 8600,HPE,2018
+United Kingdom,Peta4 - Dell C6420,Dell EMC,2018
+Canada,Cedar - Dell C4130/Dell C6320,Dell EMC,2018
+China,Inspur TS10000 HPC Cluster System - Inspur TS10000,Inspur,2018
+United States,Palmetto2 - HP SL250s Gen8/Lenovo NX360M5,HPE,2018
+United States,Apollo 6000 XL230a,HPE,2018
+China,Internet Company A O2 - ThinkSystem RD452,Lenovo,2018
+China,Internet Company A O1 - ThinkSystem RD452,Lenovo,2018
+United Kingdom,IRIDIS - ThinkSystem SD530,Lenovo,2018
+Sweden,Cluster Platform 3000 BL460c Gen9/DL380,HPE,2018
+Japan,Cluster Platform DL360,HPE,2018
+China,Internet Company N B1 - Lenovo RD450,Lenovo,2018
+China,Core International 2 - Lenovo x240 M5,Lenovo,2018
+China,JD E1 - Lenovo x3650,Lenovo,2018
+China,Lenovo NeXtScale nx360M5,Lenovo,2018
+United States,Intel SC D2P4 - Cluster Platform 3000 BL460c,HPE,2018
+China,ComputeSystem - Sugon I620,Sugon,2018
+China,BTCloudSystem - Sugon I620,Sugon,2018
+Germany,Gottfried - Cray XC40,Cray/HPE,2018
+China,CMCluster2 - Sugon TC6000,Sugon,2018
+China,JD G1 - Lenovo x3650,Lenovo,2018
+China,Internet Company B K1 - Lenovo RD450,Lenovo,2018
+Japan,Sakura - ZettaScaler-2.2,PEZY Computing / Exascaler Inc.,2018
+Australia,Software Company (M) AB1 - Lenovo C1040,Lenovo,2018
+United States,Software Company (M) B5 - Lenovo C1040,Lenovo,2018
+United States,Software Company (M) B4 - Lenovo C1040,Lenovo,2018
+United States,Software Company (M) B3 - Lenovo C1040,Lenovo,2018
+United States,Software Company (M) B2 - Lenovo C1040,Lenovo,2018
+United States,Software Company (M) B1 - Lenovo C1040,Lenovo,2018
+Singapore,SB1 - Lenovo C1040,Lenovo,2018
+Netherlands,NB1 - Lenovo C1040,Lenovo,2018
+Ireland,IB1 - Lenovo C1040,Lenovo,2018
+Japan,Laurel 2 - Cray CS400,Cray/HPE,2018
+China,VDSystem - Sugon TC6000,Sugon,2018
+China,Huawei E9000 Blade Server,"Huawei Technologies Co., Ltd.",2018
+Ireland,Cluster Platform DL360,HPE,2018
+China,Internet Company A P1 - ThinkSystem RD452,Lenovo,2018
+Saudi Arabia,Faris - Cluster Platform SL230s Gen8,HPE,2018
+China,JD F1 - Lenovo x3650,Lenovo,2018
+China,traingsystem - Sugon I620,Sugon,2018
+Japan,Reedbush-L - SGI Rackable C1102-GP8,HPE,2018
+Japan,Reedbush-H - SGI Rackable C1102-GP8,HPE,2018
+China,Internet Company B L1 - Lenovo x3650,Lenovo,2018
+Germany,PALMA II - MEGWARE MiriQuid,MEGWARE,2018
+China,onhelper-system - Sugon I620,Sugon,2018
+Japan,Suiren2 - ZettaScaler-2.2,PEZY Computing / Exascaler Inc.,2018
+China,Sunway Blue Light - Sunway BlueLight MPP,National Research Center of Parallel Computer Engineering & Technology,2018
+China,Internet Company T R1 - Lenovo RD450,Lenovo,2018
+United States,Brown - PowerEdge R640,Dell EMC,2018
+China,Internet Company T S1 - Lenovo RD450,Lenovo,2018
+Germany,DRACO - Lenovo NeXtScale nx360M5,Lenovo,2018
+China,Internet Company A Q1 - Lenovo x3650,Lenovo,2018
+Netherlands,Cluster Platform DL360,HPE,2018
+United States,XStream - Cray CS-Storm,Cray/HPE,2018
+Japan,Sekirei-ACC - SGI ICE XA,HPE,2018
+United States,Zin - Xtreme-X GreenBlade GB512X,Cray/HPE,2018
+China,Tianhe-1A Hunan Solution - NUDT YH MPP,NUDT,2018
+Japan,Research Computation Facility for GOSAT-2 (RCF2) - SGI Rackable C1104-GP1,NSSOL/HPE,2018
+China,Research - Sugon TC6000,Sugon,2018
+Germany,ForHLR II - Lenovo NeXtScale nx360M5,Lenovo,2018
+China,Internet Company T T1 - Lenovo RD450,Lenovo,2018
+United Kingdom,Spruce B - SGI ICE X,HPE,2018
+China,Internet Company T U2 - Lenovo RD450,Lenovo,2018
+China,Internet Company T U1 - Lenovo RD450,Lenovo,2018
+United States,SNL CTS-1 Dark Ghost - Tundra Extreme Scale,"Penguin Computing, Inc.",2018
+United States,Topaz - Tundra Extreme Scale,"Penguin Computing, Inc.",2018
+South Korea,HP Apollo XL1x0r,HPE,2018
+Russia,HPC4/HPC5 - SuperMicro Twin^2/2U GPU/T-Platforms V205,SuperMicro/Mellanox,2018
+United States,Cluster Platform DL380,HPE,2018
+Germany,FusionServer CH140 V3 Cluster,"Huawei Technologies Co., Ltd.",2018
+Japan,COMA (PACS-IX) - Cray CS300 1027GR,Cray/HPE,2018
+China,ImageSystem - Sugon Cluster W580I,Sugon,2018
+China,Internet Company A R1 - Lenovo RD550,Lenovo,2018
+South Korea,Cluster Platform DL380,HPE,2018
+China,video_system - Sugon W580-G20,Sugon,2018
+Japan,Numerical Materials Simulator - SGI ICE X,HPE,2018
+United States,HiperGator 2.0 - PowerEdge C6320,Dell EMC,2018
+China,Earth System Numerical Simulator - Sugon Cluster TC4600E,Sugon,2018
+China,Internet Company T V1 - Lenovo RD450,Lenovo,2018
+Germany,FusionServer X6800/XH620 V3 Cluster,"Huawei Technologies Co., Ltd.",2018
+China,HC2000 Cluster,Sugon,2018
+China,Cluster Platform DL360,HPE,2018
+China,CMCluster - Sugon TC6000,Sugon,2018
+India,iDataPlex DX360M4,IBM,2018
+United States,Cetus - BlueGene/Q,IBM,2018
+France,Zumbrota - BlueGene/Q,IBM,2018
+Canada,BGQ - BlueGene/Q,IBM,2018
+Switzerland,EPFL Blue Brain IV - BlueGene/Q,IBM,2018
+United States,Sierra - IBM Power System S922LC,IBM / NVIDIA / Mellanox,2018
+United States,Lassen - IBM Power System S922LC,IBM / NVIDIA / Mellanox,2018
+Germany,iDataPlex DX360M4,Lenovo/IBM,2018
+Japan,Shoubu system B - ZettaScaler-2.2,PEZY Computing / Exascaler Inc.,2018
+United Kingdom,Apollo 2000,HPE,2018
+Japan,QUARTETTO - HA8000-tc HT210/PRIMERGY CX400 Cluster,Hitachi/Fujitsu,2018
+United States,Lonestar 5 - Cray XC40,Cray/HPE,2018
+China,IT-byte - Sugon TC6000,Sugon,2018
+Poland,EAGLE - Huawei E9000 Blade Server,"Huawei Technologies Co., Ltd.",2018
+Italy,CRESCO6 - Lenovo SD530,Lenovo,2018
+Poland,Tryton - HP ProLiant XL230a Gen9/Huawei RH1288/SOLAR 820 S5,Megatel/Action,2018
+Singapore,NSCC - PRIMERGY CX2550 M1 LC & CX2570 M1 LC,Fujitsu,2018
+China,S1 - ThinkSystem RD452,Lenovo,2018
+United States,Lemhi - Dell C6420,Dell EMC,2018
+Japan,Shoubu - ZettaScaler-1.6,PEZY Computing / Exascaler Inc.,2018
+United States,Discover SCU10 - Rackable Cluster,HPE,2018
+Germany,Konrad - Cray XC40,Cray/HPE,2018
+China,PVideo-B - Sugon I620,Sugon,2018
+Japan,HOKUSAI GreatWave - Fujitsu PRIMEHPC FX100,Fujitsu,2018
+China,IPE-GPUv2 - HC2000 Cluster,Sugon,2018
+United States,Conte - Cluster Platform SL250s Gen8,HPE,2018
+China,Lenovo RD550,Lenovo,2018
+South Korea,Aleph - Cray XC50,Cray/HPE,2018
+Japan,AIST AI Cloud - NEC 4U-8GPU Server,NEC,2018
+United Kingdom,Spruce A - SGI ICE X,HPE,2018
+Germany,GOETHE-HLR - MEGWARE MiriQuid,MEGWARE,2018
+United States,Lightning - Cray XC30,Cray/HPE,2018
+China,netsystem - Sugon I620,Sugon,2018
+Norway,Fram - Lenovo NeXtScale nx360M5,Lenovo,2018
+China,Cluster Platform HP DL360 Gen9,HPE,2018
+France,Sequana BXI - Bull Sequana X1000,Atos,2018
+France,Eole - Intel Cluster,Atos,2018
+China,HPC_Cluster - Sugon TC6000,Sugon,2018
+China,Huawei X6800 V3,"Huawei Technologies Co., Ltd.",2018
+Sweden,Huawei E9000 Blade Server,"Huawei Technologies Co., Ltd.",2018
+China,CloudSystem - Sugon I620,Sugon,2018
+China,IT-su - Sugon TC6000,Sugon,2018
+China,IT-h3 - Sugon TC6000,Sugon,2018
+China,Cluster Platform DL380,HPE,2018
+China,Sugon I620,Sugon,2018
+United States,Apollo 6000 XL2x0a,HPE,2018
+China,Internet Company A N2 - ThinkSystem RD452,Lenovo,2018
+China,Internet Company A N1 - ThinkSystem RD452,Lenovo,2018
+Poland,OKEANOS - Cray XC40,Cray/HPE,2018
+Sweden,Stratus - Intel H2204XXLRE,ClusterVision / Hammer,2018
+New Zealand,Maui - Cray XC50,Cray/HPE,2018
+Canada,Hare - Cray XC40,Cray/HPE,2018
+Canada,Brooks - Cray XC40,Cray/HPE,2018
+China,Lenovo NeXtScale nx360 M5,Lenovo,2018
+Russia,Lomonosov - T-Platforms T-Blade2/1.1,T-Platforms,2018
+India,SERC - Cray XC40,Cray/HPE,2018
+China,DLCluster - Sugon Cluster W580I,Sugon,2018
+China,JD D1 - Lenovo x3550,Lenovo,2018
+United States,BlueGene/Q,IBM,2018
+United States,Cluster Platform DL360,HPE,2018
+Germany,Huawei X6800/XH321 V3/XH620 V3 Cluster,"Huawei Technologies Co., Ltd.",2018
+China,FusionServer XH620 V3 Cluster,"Huawei Technologies Co., Ltd.",2018
+United States,Titan - Cray XK7,Cray/HPE,2019
+Japan,K computer,Fujitsu,2019
+Finland,Sisu - Cray XC40,Cray/HPE,2019
+China,Internet Company T BB1 - Lenovo RD450,Lenovo,2019
+China,Huawei RH5885H V3 Cluster,"Huawei Technologies Co., Ltd.",2019
+China,data-ML - Sugon I620,Sugon,2019
+Australia,AC1 - Lenovo C1040,Lenovo,2019
+Brazil,BC1 - Lenovo C1040,Lenovo,2019
+Australia,Lenovo C1040,Lenovo,2019
+South Korea,KC1 - Lenovo C1040,Lenovo,2019
+South Korea,Lenovo C1040,Lenovo,2019
+United Kingdom,UKC4 - Lenovo C1040,Lenovo,2019
+United Kingdom,UKC3 - Lenovo C1040,Lenovo,2019
+United Kingdom,UKC2 - Lenovo C1040,Lenovo,2019
+United Kingdom,UKC1 - Lenovo C1040,Lenovo,2019
+India,InC1 - Lenovo C1040,Lenovo,2019
+Japan,Lenovo C1040,Lenovo,2019
+France,FR1 - Lenovo C1040,Lenovo,2019
+Brazil,BC2 - Lenovo C1040,Lenovo,2019
+Singapore,SB4 - Lenovo C1040,Lenovo,2019
+China,C1 - Lenovo C1040,Lenovo,2019
+United Kingdom,UK6 - Lenovo C1040,Lenovo,2019
+United Kingdom,UK5 - Lenovo C1040,Lenovo,2019
+South Africa,Lenovo C1040,Lenovo,2019
+South Africa,2 - Lenovo C1040,Lenovo,2019
+Switzerland,1 - Lenovo C1040,Lenovo,2019
+Switzerland,Software Company (M) SW2 - Lenovo C1040,Lenovo,2019
+United States,Venus - PowerEdge C6320,Dell EMC / IBM-GBS,2019
+United States,Mars - PowerEdge C6320,Dell EMC / IBM-GBS,2019
+China,CT-1 - Sugon TC6000,Sugon,2019
+China,PVideo-C - Sugon I620,Sugon,2019
+United States,Dell C4130,Dell EMC,2019
+China,MLSystem - Sugon I620,Sugon,2019
+Australia,Magnus - Cray XC40,Cray/HPE,2019
+Netherlands,Cartesius 2 - Bullx DLC B710/B720 Blades,Atos,2019
+United States,Falcon - SGI ICE X,HPE,2019
+United States,HP Apollo XL7x0f,HPE,2019
+China,PreEarthSim - Sugon TC4600,Sugon,2019
+France,Turing - BlueGene/Q,IBM,2019
+United Kingdom,DiRAC - BlueGene/Q,IBM,2019
+United States,Apollo 6000 XL260a,HPE,2019
+United States,BeBop - Cray CS400,Cray/HPE,2019
+United States,DGX SaturnV Volta - NVIDIA DGX-1 Volta36,Nvidia,2019
+Denmark,Apollo 2000,HPE,2019
+United States,Cluster Platform 3000 BL460c Gen9,HPE,2019
+China,Lenovo x3950,Lenovo,2019
+United States,QB-2 - Dell C8220X Cluster,Dell EMC,2019
+United States,Hellfire - SGI ICE XA,HPE,2019
+France,Tera-100 - Bull bullx super-node S6010/S6030,Atos,2019
+China,PDataSystem - Sugon I620,Sugon,2019
+China,Internet Company N D1 - Lenovo RD350,Lenovo,2019
+China,Lenovo ThinkServer RD650,Lenovo,2019
+China,datalearningsystem - Sugon W740,Sugon,2019
+United States,TX-Green - S7200AP Cluster,Dell EMC,2019
+China,ThinkSystem Flex SN550,Lenovo,2019
+Germany,Taurus - bullx DLC 720,Atos,2019
+South Africa,Lengau - PowerEdge C6320,Dell EMC,2019
+China,Pdata-1 - Sugon I620,Sugon,2019
+China,PVideo-A - Sugon I620,Sugon,2019
+China,Internet Company N D2 - Lenovo RD350,Lenovo,2019
+France,Romeo - Bull Sequana X1125,Atos,2019
+United States,Sequoia - BlueGene/Q,IBM,2019
+United States,Mira - BlueGene/Q,IBM,2019
+Australia,Gadi Phase 1 - ThinkSystem SD650,Fujitsu / Lenovo,2019
+Japan,Fujitsu PRIMEHPC FX100,Fujitsu,2019
+Japan,TSUBAME 2.5 - Cluster Platform SL390s G7,NEC/HPE,2019
+Japan,Plasma Simulator - Fujitsu PRIMEHPC FX100,Fujitsu,2019
+Brazil,Fênix - SYS-1029GQ-TRT,Atos,2019
+Australia,Raijin - Hybrid Cluster PRIMERGY/x3550 M5/PowerEdge/Rackable/Rackable,Fujitsu / Lenovo / Xenon,2019
+France,Diego - bullx DLC 720,Atos,2019
+United States,SNL/NNSA CTS-1 Serrano - Tundra Extreme Scale,"Penguin Computing, Inc.",2019
+United States,SNL/NNSA CTS-1 Cayenne - Tundra Extreme Scale,"Penguin Computing, Inc.",2019
+Germany,Cray XC40,Cray/HPE,2019
+China,B1 - Lenovo RD650,Lenovo,2019
+Japan,RAIDEN GPU subsystem - NVIDIA DGX-1 Volta36,Fujitsu,2019
+China,Lenovo HR630X,Lenovo,2019
+Russia,Cray XC40,Cray Inc./T-Platforms,2019
+China,CloudSystem - Sugon TC6000,Sugon,2019
+United Kingdom,Wilkes-2 - Dell C4130,Dell EMC,2019
+United States,Apollo 6000 XL230k,HPE,2019
+United States,LLNL/NNSA CTS-1 Nel - Tundra Extreme Scale,"Penguin Computing, Inc.",2019
+Japan,Sekirei - SGI ICE XA,HPE,2019
+United States,Garnet - Cray XE6,Cray/HPE,2019
+China,AWS HPC Clusters - Fastonetech C5,Fastonetech Inc.,2019
+United States,Zenith - Dell C6420/C6320p,Dell EMC,2019
+China,Internet Company T CC1 - Lenovo RD450,Lenovo,2019
+China,INSPUR NF5280M4,Inspur,2019
+China,Lenovo RD450,Lenovo,2019
+China,JD C1 - Lenovo x3550,Lenovo,2019
+Spain,MareNostrum P9 CTE - IBM Power System AC922,IBM,2019
+United States,LANL/NNSA CTS-1 Fire - Tundra Extreme Scale,"Penguin Computing, Inc.",2019
+United States,LANL/NNSA CTS-1 Ice - Tundra Extreme Scale,"Penguin Computing, Inc.",2019
+China,Huawei RH2288H V3 Cluster,"Huawei Technologies Co., Ltd.",2019
+United States,Selene - DGX A100 SuperPOD,Nvidia,2020
+Italy,Marconi Intel Xeon Phi - CINECA Cluster,Lenovo,2020
+Germany,Hazel Hen - Cray XC40,Cray/HPE,2020
+United States,Vulcan - BlueGene/Q,IBM,2020
+United States,Circe - NVIDIA DGX-2H POD,Nvidia,2020
+Germany,SuperMUC - iDataPlex DX360M4,IBM/Lenovo,2020
+Italy,Marconi Intel Xeon - Lenovo NeXtScale nx360M5,Lenovo,2020
+United States,Edison - Cray XC30,Cray/HPE,2020
+France,JOLIOT-CURIE KNL - Bull Sequana X1000,Atos,2020
+China,AIGIS - Sugon Cluster W780I,Sugon,2020
+Japan,NA-1 - ZettaScaler-2.2,PEZY Computing / Exascaler Inc.,2020
+United States,Apollo 6500,HPE,2020
+France,Cobalt - bullx DLC 720,Atos,2020
+United States,Ansel - IBM Power System AC922,IBM / NVIDIA / Mellanox,2020
+United States,Conrad - Cray XC40,Cray/HPE,2020
+United States,Gordon - Cray XC40,Cray/HPE,2020
+China,Lenovo x240 M5,Lenovo,2020
+China,Nebulae - Dawning TC3600 Blade System,Sugon,2020
+China,Inspur SA5212M4,Inspur,2020
+France,Spartan - Bull Sequana XH2000,Atos,2020
+China,MCSystem - Sugon TC6000,Sugon,2020
+China,GSCloud - Sugon TC6000,Sugon,2020
+China,DJSystem - Sugon TC6000,Sugon,2020
+China,HSystem - Sugon TC6000,Sugon,2020
+China,A1 - Lenovo RD650,Lenovo,2020
+United States,Yellowstone - iDataPlex DX360M4,IBM,2020
+China,HKVSystem - Sugon TC6000,Sugon,2020
+China,BSystem - Sugon TC6000,Sugon,2020
+China,Huawei X6000 V5,"Huawei Technologies Co., Ltd.",2020
+China,CTRtraning - Sugon I620,Sugon,2020
+China,Era-AI - Sugon Cluster W780I,Sugon,2020
+China,DataLearning(C) - Sugon TC6000,Sugon,2020
+China,TYACC-System - Sugon TC6000,Sugon,2020
+China,Bsystem1 - Sugon TC6000,Sugon,2020
+France,Apollo 6500,HPE,2020
+Canada,Graham - Huawei X6800 V3,"Huawei Technologies Co., Ltd.",2020
+Japan,Supercomputer Fugaku - Supercomputer Fugaku,Fujitsu,2020
+United States,Summit - IBM Power System AC922,IBM,2020
+United States,Sierra - IBM Power System AC922,IBM / NVIDIA / Mellanox,2020
+China,Sunway TaihuLight - Sunway MPP,NRCPC,2020
+United States,Selene - NVIDIA DGX A100,Nvidia,2020
+China,Tianhe-2A - TH-IVB-FEP Cluster,NUDT,2020
+Germany,JUWELS Booster Module - Bull Sequana XH2000,Atos,2020
+Italy,HPC5 - PowerEdge C4140,Dell EMC,2020
+United States,Frontera - Dell C6420,Dell EMC,2020
+Saudi Arabia,Dammam-7 - Cray CS-Storm,HPE,2020
+Italy,Marconi-100 - IBM Power System AC922,IBM,2020
+Switzerland,Piz Daint - Cray XC50,Cray/HPE,2020
+United States,Trinity - Cray XC40,Cray/HPE,2020
+Japan,AI Bridging Cloud Infrastructure (ABCI) - PRIMERGY CX2570 M4,Fujitsu,2020
+Germany,SuperMUC-NG - ThinkSystem SD650,Lenovo,2020
+Germany,Hawk - Apollo 9000,HPE,2020
+United States,Lassen - IBM Power System AC922,IBM / NVIDIA / Mellanox,2020
+France,PANGEA III - IBM Power System AC922,IBM,2020
+Japan,TOKI-SORA - PRIMEHPC FX1000,Fujitsu,2020
+United States,Cori - Cray XC40,Cray/HPE,2020
+South Korea,Nurion - Cray CS500,Cray/HPE,2020
+Japan,Oakforest-PACS - PRIMERGY CX1640 M1,Fujitsu,2020
+Italy,HPC4 - Proliant DL380 Gen10,HPE,2020
+France,Tera-1000-2 - Bull Sequana X1000,Atos,2020
+United States,Stampede2 - PowerEdge C6320P/C6420,Dell EMC,2020
+United States,DGX SuperPOD - NVIDIA DGX-2H,Nvidia,2020
+Australia,Gadi - PRIMERGY CX2570 M5,Fujitsu / Lenovo,2020
+Taiwan,Taiwania 2 - QCT QuantaGrid D52G-4U/LC,Quanta Computer / Taiwan Fixed Network / ASUS Cloud,2020
+United States,AiMOS - IBM Power System AC922,IBM,2020
+France,Taranis - Bull Sequana XH2000,Atos,2020
+Japan,TSUBAME3.0 - SGI ICE XA,HPE,2020
+United States,Roxy - Apollo 2000,HPE,2020
+Japan,Plasma Simulator - SX-Aurora TSUBASA A412-8,NEC,2020
+France,Belenos - Bull Sequana XH2000,Atos,2020
+United States,PupMaya - Apollo 2000,HPE,2020
+United Arab Emirates,Artemis - NVIDIA DGX-2,Nvidia,2020
+France,JOLIOT-CURIE ROME - Bull Sequana XH2000,Atos,2020
+United States,Theta - Cray XC40,Cray/HPE,2020
+Russia,Christofari - NVIDIA DGX-2,Nvidia,2020
+Japan,Flow - PRIMEHPC FX1000,Fujitsu,2020
+Spain,MareNostrum - Lenovo SD530,Lenovo,2020
+United States,ONYX - Cray XC40,Cray/HPE,2020
+Germany,JUWELS Module 1 - Bull Sequana X1000,Atos,2020
+United States,Pleiades - SGI ICE X,HPE,2020
+Germany,Emmy+ - BullSequana X,Atos,2020
+United States,Sawtooth - HPE SGI 8600,HPE,2020
+Japan,Cray XC50,Cray Inc./Hitachi,2020
+Germany,COBRA - Intel Compute Module HNS2600BP,Intel,2020
+Saudi Arabia,Shaheen II - Cray XC40,Cray/HPE,2020
+United States,Electra - HPE SGI 8600/SGI ICE-X,HPE,2020
+Finland,MAHTI - Bull Sequana XH2000,Atos,2020
+Germany,Lise - Bull intel Cluster,Atos,2020
+France,Pangea - SGI ICE X,HPE,2020
+United States,TX-GAIA (Green AI Accelerator) - Apollo 2000,HPE,2020
+Japan,Flow Type II subsystem - PRIMERGY CX2570 M5,Fujitsu,2020
+United States,Eagle - HPE SGI 8600,HPE,2020
+United States,Cheyenne - SGI ICE XA,HPE,2020
+Norway,Betzy - Bull Sequana XH2000,Atos,2020
+India,PARAM Siddhi-AI - NVIDIA DGX A100,Atos,2020
+Japan,ITO - Subsystem A - Fujitsu PRIMERGY CX2550/CX2560 M4,Fujitsu,2020
+Brazil,Atlas - Bull 4029GP-TVRT,Atos,2020
+China,Advanced Computing System(PreE) - Sugon TC8600,Sugon,2020
+France,CRONOS - BullSequana X,Atos,2020
+Japan,Oakbridge-CX - Fujitsu PRIMERGY CX2550/CX2560 M5,Fujitsu,2020
+United States,SNL/NNSA CTS-1 Manzano - Tundra Extreme Scale,"Penguin Computing, Inc.",2020
+United States,Aitken 2 - Apollo 9000,HPE,2020
+France,JOLIOT-CURIE SKL - Bull Sequana X1000,Atos,2020
+United States,Abel - Cray XC30,Cray/HPE,2020
+Germany,JURECA - T-Platforms V-Class/Dell C6320P,"T-Platforms, Intel, Dell",2020
+India,Pratyush - Cray XC40,Cray/HPE,2020
+Japan,Apollo 6500 XL270d Gen10,HPE,2020
+United States,LLNL Ruby - Supermicro SYS-2029TP-HTR,Supermicro,2020
+United States,Orion - PowerEdge C6420,Dell EMC,2020
+United States,Joule 2.0 - HP ProLiant XL170r/XL190r/DL360 Gen10,HPE,2020
+Canada,Niagara - ThinkSystem SD530,Lenovo,2020
+United States,Cray CS-Storm,Cray/HPE,2020
+Poland,Eagle II - CH121L V5 Liquid-Cooled,"Huawei Technologies Co., Ltd.",2020
+Saudi Arabia,Unizah-II - Cray CS500,HPE,2020
+Japan,Ohtaka - PowerEdge C6525,Dell EMC,2020
+Italy,davinci-1 - BullSequana X,Atos,2020
+Canada,Cedar (GPU) - PowerEdge C6420,ACTION,2020
+United States,Topaz - SGI ICE X,HPE,2020
+United States,NVIDIA DGX-1/Relion 2904GT,Self-made,2020
+United States,DGX Saturn V - NVIDIA DGX-1,Nvidia,2020
+United Kingdom,Damson - Bull Sequana X1000,Atos,2020
+United States,LLNL/NNSA CTS-1 MAGMA - Relion Cluster,"Penguin Computing, Inc.",2020
+United States,Mustang - HPE SGI 8600,HPE,2020
+Italy,HPC2 - iDataPlex DX360M4,IBM,2020
+Brazil,Fênix - Bull 4029GP-TVRT,Atos,2020
+Morocco,Toubkal - PowerEdge C6420,Dell EMC,2020
+Japan,SORA-MA - Fujitsu PRIMEHPC FX100,Fujitsu,2020
+Germany,Lichtenberg II (Phase 1) - MEGWARE MiriQuid,MEGWARE,2020
+United States,Cray XC30,Cray/HPE,2020
+United States,Thunder - SGI ICE X,HPE,2020
+Switzerland,Alps - HPE Cray EX,HPE,2020
+Japan,Numerical Materials Simulator - HPE SGI 8600,HPE,2020
+United States,Hera - Cray CS500,Cray/HPE,2020
+Japan,Camphor 2 - Cray XC40,Cray/HPE,2020
+France,Jean Zay - HPE SGI 8600,HPE,2020
+Germany,Mistral - bullx DLC 720,Atos,2020
+Sweden,Tetralith - Intel H2204XXLRE,ClusterVision / Hammer,2020
+United States,Freeman - Cray CS500,HPE,2020
+Germany,SuperMUC Phase 2 - NeXtScale nx360M5,Lenovo/IBM,2020
+United Kingdom,Cray XC40,Cray/HPE,2020
+Japan,JFRS-1 - Cray XC50,Cray/HPE,2020
+China,ZZ2 - ThinkSystem HR650X,Lenovo,2020
+Austria,VSC-4 - ThinkSystem SD650,Lenovo,2020
+United States,SNL/NNSA CTS-1 Attaway - Tundra Extreme Scale,"Penguin Computing, Inc.",2020
+China,ZZ3 - ThinkSystem HR650X,Lenovo,2020
+China,ZZ4 - ThinkSystem HR650X,Lenovo,2020
+Canada,Banting - Cray XC50,Cray/HPE,2020
+United States,Hypercluster - NVIDIA DGX-2,Nvidia,2020
+China,ZZ5 - ThinkSystem HR650X,Lenovo,2020
+China,ZZ6 - ThinkSystem HR650X,Lenovo,2020
+United States,Grace - PowerEdge R640/R740/R840,Dell EMC,2020
+United States,LLNL/NNSA CTS-1 Jade - Tundra Extreme Scale,"Penguin Computing, Inc.",2020
+United States,LLNL CTS-1 Quartz - Tundra Extreme Scale,"Penguin Computing, Inc.",2020
+Canada,Cedar (CPU) - PowerEdge C6420,ACTION,2020
+Canada,Daley - Cray XC50,Cray/HPE,2020
+Germany,SX-Aurora TSUBASA A412-8,NEC,2020
+Italy,HPC3 - Lenovo NeXtScale nx360M5,Lenovo,2020
+India,Mihir - Cray XC40,Cray/HPE,2020
+China,Tianhe-1A - NUDT YH MPP,NUDT,2020
+France,Spartan2 - Bull Sequana XH2000,Atos,2020
+China,PAI-BSystem - Sugon TC4600LP/W740I,Sugon,2020
+United States,cascade - Atipa Visione IF442 Blade Server,Atipa Technology,2020
+France,occigen2 - bullx DLC 720,Atos,2020
+United States,Excalibur - Cray XC40,Cray/HPE,2020
+Germany,CLAIX (2018) - INTEL-HNS2600BPB,NEC,2020
+United States,Expanse - PowerEdge R6525/C6525,Dell EMC,2020
+Russia,Lomonosov 2 - T-Platform A-Class Cluster,T-Platforms,2020
+China,B1 - Lenovo HR650x,Lenovo,2020
+United States,Centennial - SGI ICE XA,HPE,2020
+China,PAI-ASystem - Sugon TC4600,Sugon,2020
+China,C1 - Lenovo HR650x,Lenovo,2020
+China,D1 - Lenovo HR650x,Lenovo,2020
+South Korea,Nuri - Cray XC40,Cray/HPE,2020
+South Korea,Miri - Cray XC40,Cray/HPE,2020
+China,E1 - Lenovo HR650x,Lenovo,2020
+United States,Aitken - HPE SGI 8600,HPE,2020
+United States,NVIDIA DGX SuperPOD - NVIDIA DGX A100,Nvidia,2020
+China,ZZ1 - ThinkSystem HR630X,Lenovo,2020
+Saudi Arabia,Makman-3 - PowerEdge R440/C6320p,Dell EMC,2020
+China,F1 - Lenovo HR650x,Lenovo,2020
+Taiwan,Taiwania 3 - QCT QuantaPlex T42D-2U/4N,Quanta Computer / Taiwan Fixed Network / ASUS Cloud,2020
+United States,Longhorn - IBM Power System AC922,IBM,2020
+Canada,Béluga - Dell EMC PowerEdge R640,Dell EMC,2020
+United Kingdom,Cumulus - PowerEdge C6420/C6320,Dell EMC,2020
+Saudi Arabia,Makman-2 - Dell PowerEdge R630,Dell EMC,2020
+China,G1 - Lenovo HR650x,Lenovo,2020
+France,Prolix2 - bullx DLC 720,Atos,2020
+China,H1 - Lenovo HR650x,Lenovo,2020
+France,Beaufix2 - bullx DLC 720,Atos,2020
+China,ThinkSystem HR630X,Lenovo,2020
+United States,Betty - Cray CS500,HPE,2020
+China,MagicCube3 - Sugon TC6000,Sugon,2020
+China,I1 - Lenovo HR650x,Lenovo,2020
+Japan,ATERUI II  - Cray XC50,Cray/HPE,2020
+United States,Greene - ThinkSystem SR650,Lenovo,2020
+United States,Cannon - ThinkSystem SD650,Lenovo,2020
+China,JD I1 - ThinkSystem SR650,Lenovo,2020
+China,Tianhe-2 LvLiang Solution - Tianhe-2 LvLiang,NUDT,2020
+China,J1 - Lenovo HR650x,Lenovo,2020
+United States,Koehr - HPE SGI 8600,HPE,2020
+United States,Gaffney - HPE SGI 8600,HPE,2020
+Japan,Grand Chariot - PRIMERGY CX2550 M4 M4,Fujitsu,2020
+Japan,A64FX prototype - Fujitsu A64FX,Fujitsu,2020
+China,TTSystem - Sugon TC6000,Sugon,2020
+China,K1 - Lenovo HR650x,Lenovo,2020
+France,Gaïa - Bull intel Cluster,Atos,2020
+China,HKVDPSystem - Sugon TC6000,Sugon,2020
+Germany,Mogon II - NEC Cluster,NEC/MEGWARE,2020
+United States,Biowulf - Apollo 2000 Gen 8/9,HPE,2020
+Japan,SGI ICE X,HPE,2020
+China,CTcluster - Sugon TC6000,Sugon,2020
+United States,Amazon EC2 C5 Instance cluster us-east-1a - Amazon EC2 Instance Cluster C5,Amazon Web Services,2020
+China,Huawei 2288H V5,"Huawei Technologies Co., Ltd.",2020
+Switzerland,Piz Daint Multicore - Cray XC40,Cray/HPE,2020
+China,A1 - Lenovo HR650x,Lenovo,2020
+France,Tera-1000-1 - bullx DLC 720,Atos,2020
+China,Inspur NF5468M5,Inspur,2020
+Brazil,Santos Dumont (SDumont) - Bull Sequana X1000,Atos,2020
+United States,Phoenix - Relion XE2142/XE1114GT,"Penguin Computing, Inc.",2020
+China,bsystem - Sugon TC6000,Sugon,2020
+United States,Astra - Apollo 70,HPE,2020
+United Kingdom,scafellpike - Bull Sequana X1000,Atos,2020
+China,JGV100System - Sugon TC6000,Sugon,2020
+China,INSPUR SA5212M5,Inspur,2020
+China,szaisystem - Sugon TC6000,Sugon,2020
+China,Bank P A2 - ThinkSystem SR650,Lenovo,2020
+China,JCSystem - Sugon TC6000,Sugon,2020
+China,S1 - ThinkSystem Flex SN550,Lenovo,2020
+Sweden,Beskow - Cray XC40,Cray/HPE,2020
+China,ESSystem - Sugon TC6000,Sugon,2020
+Japan,Molecular Simulator - NEC LX Cluster,NEC,2020
+China,R1 - ThinkSystem Flex SN550,Lenovo,2020
+United Arab Emirates,POD3 - Huawei Cluster,"Huawei Technologies Co., Ltd.",2020
+Germany,QURIOSITY - Apollo XL230k,HPE,2020
+Germany,CARA - NEC LX Cluster,NEC,2020
+China,ThinkSystem SR590,Lenovo,2020
+China,CSystem - Sugon TC6000,Sugon,2020
+China,Q1 - ThinkSystem Flex SN550,Lenovo,2020
+China,Inspur SA5212H5,Inspur,2020
+China,Internet Company T DD1 - Lenovo RD350,Lenovo,2020
+Germany,Huawei X6000,"Huawei Technologies Co., Ltd.",2020
+Japan,PRIMERGY CX2550 M4,Fujitsu,2020
+Finland,Puhti - Bull Sequana X1000,Atos,2020
+China,P1 - ThinkSystem Flex SN550,Lenovo,2020
+United States,SwiftLucy - Cluster Platform 3000 BL460c Gen9,HPE,2020
+Japan,AFI-NITY - PRIMERGY CX2550 M4,Fujitsu,2020
+China,TaiYi - ThinkSystem SD530,Lenovo,2020
+China,ThinkSystem SD650,Lenovo,2020
+China,ISystem - Sugon TC6000,Sugon,2020
+China,Internet Service D - Huawei 1288H V5,"Huawei Technologies Co., Ltd.",2020
+Poland,Prometheus - HP Apollo 8000,HPE,2020
+China,O1 - ThinkSystem Flex SN550,Lenovo,2020
+United States,Endeavor - Intel Cluster,Intel,2020
+China,Internet Company T Y1 - Lenovo RD450,Lenovo,2020
+Japan,MN-3 - MN-Core Server,Preferred Networks,2020
+China,ThinkSystem SR570,Lenovo,2020
+Australia,Software Company (M) AA1 - Lenovo C1040,Lenovo,2020
+Canada,Software Company (M) CA3 - Lenovo C1040,Lenovo,2020
+Canada,Software Company (M) CA2 - Lenovo C1040,Lenovo,2020
+Canada,Software Company (M) CA1 - Lenovo C1040,Lenovo,2020
+Canada,Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A16 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A15 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A14 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A13 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A11 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A10 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A9 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A8 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A7 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A6 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A4 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A3 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A2 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A1 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A12 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A5 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A26 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A38 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A37 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A36 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A35 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A34 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A33 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A32 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A31 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A30 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A29 - Lenovo C1040,Lenovo,2020
+United States,Software Company (M) A28 - Lenovo C1040,Lenovo,2020
+United States,Lenovo C1040,Lenovo,2020
+Netherlands,NA5 - Lenovo C1040,Lenovo,2020
+Netherlands,NA4 - Lenovo C1040,Lenovo,2020
+Netherlands,NA3 - Lenovo C1040,Lenovo,2020
+Netherlands,NA2 - Lenovo C1040,Lenovo,2020
+Netherlands,NA1 - Lenovo C1040,Lenovo,2020
+Ireland,IA4 - Lenovo C1040,Lenovo,2020
+Ireland,IA3 - Lenovo C1040,Lenovo,2020
+Ireland,IA2 - Lenovo C1040,Lenovo,2020
+Ireland,IA1 - Lenovo C1040,Lenovo,2020
+Singapore,SB3 - Lenovo C1040,Lenovo,2020
+Singapore,SB2 - Lenovo C1040,Lenovo,2020
+Ireland,Lenovo C1040,Lenovo,2020
+Singapore,Lenovo C1040,Lenovo,2020
+Netherlands,NA12 - Lenovo C1040,Lenovo,2020
+Netherlands,NA11 - Lenovo C1040,Lenovo,2020
+Netherlands,NA10 - Lenovo C1040,Lenovo,2020
+Netherlands,NA9 - Lenovo C1040,Lenovo,2020
+Netherlands,NA8 - Lenovo C1040,Lenovo,2020
+Netherlands,NA7 - Lenovo C1040,Lenovo,2020
+Ireland,IA13 - Lenovo C1040,Lenovo,2020
+Hong Kong,HKA1 - Lenovo C1040,Lenovo,2020
+Netherlands,NA6 - Lenovo C1040,Lenovo,2020
+Singapore,SB5 - Lenovo C1040,Lenovo,2020
+Ireland,IA14 - Lenovo C1040,Lenovo,2020
+Netherlands,NA15 - Lenovo C1040,Lenovo,2020
+Japan,J2 - Lenovo C1040,Lenovo,2020
+Netherlands,NA14 - Lenovo C1040,Lenovo,2020
+Netherlands,NA13 - Lenovo C1040,Lenovo,2020
+Norway,NY A2 - Lenovo C1040,Lenovo,2020
+Norway,NY A1 - Lenovo C1040,Lenovo,2020
+United Kingdom,Cumulus-Cascadelake - PowerEdge C6420,Dell EMC,2020
+United Kingdom,ARCHER - Cray XC30,Cray/HPE,2020
+United States,Surge - Cray XC40,Cray/HPE,2020
+United States,Luna - Cray XC40,Cray/HPE,2020
+Canada,Cedar-2 - PowerEdge C6320/C6420,Dell EMC,2020
+China,ThinkSystem SR650,Lenovo,2020
+United States,Bell - PowerEdge C6525,Dell EMC,2020
+Brazil,Ogbon Cimatec/Petrobras - Bull Sequana X1000,Atos,2020
+China,Internet Company T X2 - Lenovo RD450,Lenovo,2020
+Japan,HOKUSAI BigWaterfall	 - PRIMERGY CX2550 M4,Fujitsu,2020
+China,U3 - ThinkSystem SR650,Lenovo,2020
+United States,Power 775,IBM,2020
+Japan,Cygnus - NEC LX Cluster,NEC,2020
+China,Sugon TC6000,Sugon,2020
+China,U2 - ThinkSystem SR650,Lenovo,2020
+China,ThinkSystem HR650X,Lenovo,2020
+China,Internet Company T Z1 - Lenovo RD450,Lenovo,2020
+China,Internet Company T X1 - Lenovo RD450,Lenovo,2020
+United States,LANL CTS-1 Grizzly - Tundra Extreme Scale,"Penguin Computing, Inc.",2020
+China,U1 - ThinkSystem SR650,Lenovo,2020
+China,TaiYi GPU - ThinkSystem SD530,Lenovo,2020
+China,Internet Company T AA1 - Lenovo RD450,Lenovo,2020
+United Kingdom,Jade2 - Nvidia DGX1-MaxQ,Atos,2020
+United States,Satori - IBM Power System AC922,IBM,2020
+Czechia,Salomon - SGI ICE X,HPE,2020
+China,ThinkSystem SD530,Lenovo,2020
+China,N1 - ThinkSystem SD530,Lenovo,2020
+China,Huawei G5500,"Huawei Technologies Co., Ltd.",2020
+China,HSystem19 - Sugon TC6000,Sugon,2020
+United Kingdom,Blue Joule - BlueGene/Q,IBM,2020
+China,Pre Earth Simulatorv2 - Sugon Si-Cube,Sugon,2020
+China,XJSCSystem - Sugon TC6000,Sugon,2020
+China,HKVSSystem - Sugon TC6000,Sugon,2020
+China,BtACC - Sugon TC6000,Sugon,2020
+United States,Spirit - SGI ICE X,HPE,2020
+China,Inspur NF5588M4,Inspur,2020
+China,Inspur TS10000 HPC Server,Inspur,2020
+China,TSystem - Sugon TC6000,Sugon,2020
+United States,Palmetto2 - HP SL250s /Lenovo NX360M5,HPE,2020
+China,GSACC - Sugon TC6000,Sugon,2020
+China,SWARM - C4130/1028GQ,SuperMicro/DellEMC,2020
+Japan,MN-1 - SuperServer 4028GR-TR2,NTT Communications / NTT PC Communications,2020
+China,GCloud - Sugon TC6000,Sugon,2020
+China,Bsystem - Sugon TC6000,Sugon,2020
+France,Sid - bullx DLC 720,Atos,2020
+United States,SNL/NNSA CTS-1 Eclipse - Tundra Extreme Scale,"Penguin Computing, Inc.",2020
+France,Curie thin nodes - Bullx B510,Atos,2020
+China,Inspur TS10000,Inspur,2020
+China,Inspur NF5280M,Inspur,2020
+China,JD B1 - Lenovo x3650,Lenovo,2020
+China,Lenovo HR650x,Lenovo,2020
+China,INSPUR NF5288M5,Inspur,2020
+China,SGSystem - Sugon TC6000,Sugon,2020
+China,Earth Bigdata - Sugon TC6000,Sugon,2020
+Canada,Cedar - Dell C4130,Dell EMC,2020
+Japan,HPE SGI 8600,HPE,2020
+Taiwan,Taiwania - PRIMERGY CX2550 M4/CX2560 M4/CX2570 M4,Fujitsu,2020
+China,Internet Company T EE2 - Lenovo HR650x,Lenovo,2020
+China,Internet Company T EE1 - Lenovo HR650x,Lenovo,2020
+China,Internet Company T FF1 - Lenovo HR650x,Lenovo,2020

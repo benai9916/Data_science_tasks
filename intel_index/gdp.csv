@@ -1,0 +1,474 @@
+country,year,GDP
+Switzerland,2019,81994
+Switzerland,2018,82818
+Switzerland,2017,80450
+Switzerland,2016,80172
+Switzerland,2015,82082
+Switzerland,2014,86606
+Switzerland,2013,85112
+Switzerland,2012,83538
+Switzerland,2011,88416
+Switzerland,2010,74606
+Norway,2019,75420
+Norway,2018,81734
+Norway,2017,75497
+Norway,2016,70459
+Norway,2015,74356
+Norway,2014,97019
+Norway,2013,102913
+Norway,2012,101524
+Norway,2011,100601
+Norway,2010,87694
+Ireland,2019,78661
+Ireland,2018,78621
+Ireland,2017,69822
+Ireland,2016,63197
+Ireland,2015,61995
+Ireland,2014,55493
+Ireland,2013,51590
+Ireland,2012,48918
+Ireland,2011,51849
+Ireland,2010,48715
+Singapore,2019,65233
+Singapore,2018,66189
+Singapore,2017,60914
+Singapore,2016,56828
+Singapore,2015,55647
+Singapore,2014,57563
+Singapore,2013,56967
+Singapore,2012,55546
+Singapore,2011,53890
+Singapore,2010,47237
+United States,2019,65281
+United States,2018,62997
+United States,2017,59958
+United States,2016,57928
+United States,2015,56823
+United States,2014,55048
+United States,2013,53118
+United States,2012,51611
+United States,2011,49887
+United States,2010,48468
+Denmark,2019,59822
+Denmark,2018,61391
+Denmark,2017,57141
+Denmark,2016,54664
+Denmark,2015,53255
+Denmark,2014,62549
+Denmark,2013,61191
+Denmark,2012,58508
+Denmark,2011,61754
+Denmark,2010,58041
+Australia,2019,54907
+Australia,2018,57396
+Australia,2017,54066
+Australia,2016,49971
+Australia,2015,56756
+Australia,2014,62511
+Australia,2013,68150
+Australia,2012,68012
+Australia,2011,62518
+Australia,2010,52022
+Sweden,2019,51610
+Sweden,2018,54589
+Sweden,2017,53792
+Sweden,2016,51965
+Sweden,2015,51545
+Sweden,2014,60020
+Sweden,2013,61127
+Sweden,2012,58038
+Sweden,2011,60756
+Sweden,2010,52869
+Netherlands,2019,52448
+Netherlands,2018,53048
+Netherlands,2017,48675
+Netherlands,2016,46008
+Netherlands,2015,45175
+Netherlands,2014,52830
+Netherlands,2013,52184
+Netherlands,2012,50073
+Netherlands,2011,54159
+Netherlands,2010,50950
+Austria,2019,50277
+Austria,2018,51525
+Austria,2017,47549
+Austria,2016,45238
+Austria,2015,44178
+Austria,2014,51717
+Austria,2013,50717
+Austria,2012,48568
+Austria,2011,51375
+Austria,2010,46858
+Finland,2019,48686
+Finland,2018,50021
+Finland,2017,46317
+Finland,2016,43784
+Finland,2015,42785
+Finland,2014,50260
+Finland,2013,49878
+Finland,2012,47711
+Finland,2011,51082
+Finland,2010,46460
+Hong Kong,2019,48756
+Hong Kong,2018,48543
+Hong Kong,2017,46166
+Hong Kong,2016,43731
+Hong Kong,2015,42432
+Hong Kong,2014,40315
+Hong Kong,2013,38404
+Hong Kong,2012,36731
+Hong Kong,2011,35142
+Hong Kong,2010,32550
+Germany,2019,46259
+Germany,2018,47639
+Germany,2017,44350
+Germany,2016,42099
+Germany,2015,41140
+Germany,2014,47960
+Germany,2013,46286
+Germany,2012,43858
+Germany,2011,46645
+Germany,2010,41532
+Belgium,2019,46117
+Belgium,2018,47491
+Belgium,2017,44289
+Belgium,2016,41998
+Belgium,2015,40992
+Belgium,2014,47701
+Belgium,2013,46745
+Belgium,2012,44673
+Belgium,2011,47349
+Belgium,2010,44142
+Canada,2019,46195
+Canada,2018,46313
+Canada,2017,45149
+Canada,2016,42322
+Canada,2015,43586
+Canada,2014,50893
+Canada,2013,52653
+Canada,2012,52678
+Canada,2011,52087
+Canada,2010,47448
+UAE,2019,43103
+UAE,2018,43839
+UAE,2017,40645
+UAE,2016,38142
+UAE,2015,38663
+UAE,2014,43752
+UAE,2013,42413
+UAE,2012,40976
+UAE,2011,39195
+UAE,2010,33893
+United Kingdom,2019,42300
+United Kingdom,2018,43043
+United Kingdom,2017,40361
+United Kingdom,2016,41064
+United Kingdom,2015,44975
+United Kingdom,2014,47426
+United Kingdom,2013,43445
+United Kingdom,2012,42463
+United Kingdom,2011,42039
+United Kingdom,2010,39436
+New Zealand,2019,42084
+New Zealand,2018,42950
+New Zealand,2017,42849
+New Zealand,2016,40106
+New Zealand,2015,38616
+New Zealand,2014,44553
+New Zealand,2013,42963
+New Zealand,2012,39983
+New Zealand,2011,38438
+New Zealand,2010,33700
+Israel,2019,43641
+Israel,2018,41720
+Israel,2017,40542
+Israel,2016,37322
+Israel,2015,35777
+Israel,2014,37679
+Israel,2013,36309
+Israel,2012,32511
+Israel,2011,33669
+Israel,2010,30694
+France,2019,40494
+France,2018,41631
+France,2017,38812
+France,2016,37037
+France,2015,36638
+France,2014,43011
+France,2013,42593
+France,2012,40875
+France,2011,43791
+France,2010,40638
+Japan,2019,40247
+Japan,2018,39159
+Japan,2017,38387
+Japan,2016,38762
+Japan,2015,34524
+Japan,2014,38109
+Japan,2013,40454
+Japan,2012,48603
+Japan,2011,48168
+Japan,2010,44508
+Italy,2019,33190
+Italy,2018,34520
+Italy,2017,32407
+Italy,2016,30940
+Italy,2015,30230
+Italy,2014,35518
+Italy,2013,35550
+Italy,2012,35054
+Italy,2011,38599
+Italy,2010,36001
+South Korea,2019,31762
+South Korea,2018,33340
+South Korea,2017,31617
+South Korea,2016,29289
+South Korea,2015,28732
+South Korea,2014,29250
+South Korea,2013,27183
+South Korea,2012,25467
+South Korea,2011,25096
+South Korea,2010,23087
+Spain,2019,29614
+Spain,2018,30338
+Spain,2017,28170
+Spain,2016,26505
+Spain,2015,25732
+Spain,2014,29462
+Spain,2013,29060
+Spain,2012,28324
+Spain,2011,31636
+Spain,2010,30503
+Slovenia,2019,25739
+Slovenia,2018,26055
+Slovenia,2017,23501
+Slovenia,2016,21623
+Slovenia,2015,20882
+Slovenia,2014,24215
+Slovenia,2013,23497
+Slovenia,2012,22643
+Slovenia,2011,25095
+Slovenia,2010,23510
+Saudi Arabia,2019,23140
+Saudi Arabia,2018,23339
+Saudi Arabia,2017,20804
+Saudi Arabia,2016,19879
+Saudi Arabia,2015,20628
+Saudi Arabia,2014,24464
+Saudi Arabia,2013,24845
+Saudi Arabia,2012,25243
+Saudi Arabia,2011,23746
+Saudi Arabia,2010,19263
+Czech Republic,2019,23102
+Czech Republic,2018,23047
+Czech Republic,2017,20380
+Czech Republic,2016,18463
+Czech Republic,2015,17716
+Czech Republic,2014,19745
+Czech Republic,2013,19916
+Czech Republic,2012,19730
+Czech Republic,2011,21717
+Czech Republic,2010,19808
+Greece,2019,19583
+Greece,2018,20324
+Greece,2017,18930
+Greece,2016,18116
+Greece,2015,18168
+Greece,2014,21761
+Greece,2013,21875
+Greece,2012,22243
+Greece,2011,25916
+Greece,2010,26918
+Slovak Republic,2019,19329
+Slovak Republic,2018,19428
+Slovak Republic,2017,17554
+Slovak Republic,2016,16506
+Slovak Republic,2015,16309
+Slovak Republic,2014,18671
+Slovak Republic,2013,18237
+Slovak Republic,2012,17460
+Slovak Republic,2011,18338
+Slovak Republic,2010,16727
+Hungary,2019,16476
+Hungary,2018,16151
+Hungary,2017,14458
+Hungary,2016,12992
+Hungary,2015,12652
+Hungary,2014,14246
+Hungary,2013,13687
+Hungary,2012,12918
+Hungary,2011,14151
+Hungary,2010,13114
+Poland,2019,15595
+Poland,2018,15461
+Poland,2017,13861
+Poland,2016,12432
+Poland,2015,12572
+Poland,2014,14348
+Poland,2013,13781
+Poland,2012,13146
+Poland,2011,13894
+Poland,2010,12600
+Croatia,2019,14853
+Croatia,2018,14920
+Croatia,2017,13412
+Croatia,2016,12360
+Croatia,2015,11783
+Croatia,2014,13600
+Croatia,2013,13642
+Croatia,2012,13238
+Croatia,2011,14567
+Croatia,2010,13924
+Malaysia,2019,11415
+Malaysia,2018,11373
+Malaysia,2017,10254
+Malaysia,2016,9818
+Malaysia,2015,9955
+Malaysia,2014,11319
+Malaysia,2013,10970
+Malaysia,2012,10817
+Malaysia,2011,10399
+Malaysia,2010,9041
+Russia,2019,11585
+Russia,2018,11371
+Russia,2017,10720
+Russia,2016,8705
+Russia,2015,9313
+Russia,2014,14096
+Russia,2013,15975
+Russia,2012,15421
+Russia,2011,14311
+Russia,2010,10675
+China,2019,10262
+China,2018,9977
+China,2017,8879
+China,2016,8148
+China,2015,8067
+China,2014,7679
+China,2013,7051
+China,2012,6317
+China,2011,5618
+China,2010,4550
+Mexico,2019,9863
+Mexico,2018,9673
+Mexico,2017,9278
+Mexico,2016,8740
+Mexico,2015,9606
+Mexico,2014,10922
+Mexico,2013,10725
+Mexico,2012,10242
+Mexico,2011,10203
+Mexico,2010,9271
+Bulgaria,2019,9738
+Bulgaria,2018,9424
+Bulgaria,2017,8331
+Bulgaria,2016,7546
+Bulgaria,2015,7054
+Bulgaria,2014,7874
+Bulgaria,2013,7652
+Bulgaria,2012,7393
+Bulgaria,2011,7806
+Bulgaria,2010,6810
+Turkey,2019,9042
+Turkey,2018,9370
+Turkey,2017,10514
+Turkey,2016,10821
+Turkey,2015,10949
+Turkey,2014,12096
+Turkey,2013,12519
+Turkey,2012,11707
+Turkey,2011,11336
+Turkey,2010,10672
+Brazil,2019,8717
+Brazil,2018,9001
+Brazil,2017,9925
+Brazil,2016,8710
+Brazil,2015,8814
+Brazil,2014,12113
+Brazil,2013,12300
+Brazil,2012,12370
+Brazil,2011,13246
+Brazil,2010,11286
+South Africa,2019,6001
+South Africa,2018,6374
+South Africa,2017,6132
+South Africa,2016,5273
+South Africa,2015,5735
+South Africa,2014,6433
+South Africa,2013,6832
+South Africa,2012,7501
+South Africa,2011,8007
+South Africa,2010,7329
+Morocco,2019,3204
+Morocco,2018,3222
+Morocco,2017,3036
+Morocco,2016,2897
+Morocco,2015,2875
+Morocco,2014,3172
+Morocco,2013,3122
+Morocco,2012,2913
+Morocco,2011,3047
+Morocco,2010,2840
+India,2019,2104
+India,2018,2006
+India,2017,1982
+India,2016,1733
+India,2015,1606
+India,2014,1574
+India,2013,1450
+India,2012,1444
+India,2011,1458
+India,2010,1358
+Taiwan,2019,25909
+Taiwan,2018,25792
+Taiwan,2017,25080
+Taiwan,2016,23091
+Taiwan,2015,22780
+Taiwan,2014,22874
+Taiwan,2013,21973
+Taiwan,2012,21295
+Taiwan,2011,20866
+Taiwan,2010,19197
+Slovak Republic,2020,10500
+Slovenia,2020,53240
+Croatia,2020,89000
+New Zealand,2020,26900
+Japan,2020,25200
+Czech Republic,2020,8130
+UAE,2020,5600
+Belgium,2020,25000
+Brazil,2020,46500
+Saudi Arabia,2020,37300
+Norway,2020,10400
+Austria,2020,33042
+South Korea,2020,45100
+Turkey,2020,52900
+Sweden,2020,31100
+Poland,2020,13600
+Taiwan,2020,58500
+Morocco,2020,7180
+Mexico,2020,8500
+Hungary,2020,77200
+Switzerland,2020,12150
+Ireland,2020,46000
+Greece,2020,15500
+Malaysia,2020,3150
+United Kingdom,2020,36060
+Canada,2020,39800
+Israel,2020,22500
+China,2020,54200
+India,2020,46500
+United States,2020,37375
+South Africa,2020,16200
+Hong Kong,2020,62200
+Denmark,2020,9800
+Italy,2020,50100
+Bulgaria,2020,20490
+Australia,2020,15200
+Netherlands,2020,33800
+Singapore,2020,1876
+France,2020,41800
+Russia,2020,27271
+Germany,2020,47200
+Finland,2020,19300
+Spain,2020,77000

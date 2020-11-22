@@ -1,0 +1,474 @@
+year,country,hpc_no,GDP
+2017,Norway,0,75497.0
+2017,Turkey,0,10514.0
+2017,Taiwan,0,25080.0
+2017,Morocco,0,3036.0
+2017,Hungary,0,14458.0
+2017,Switzerland,0,80450.0
+2017,Greece,0,18930.0
+2017,Malaysia,0,10254.0
+2017,Israel,0,40542.0
+2017,Czech Republic,0,20380.0
+2017,South Africa,0,6132.0
+2017,Hong Kong,0,46166.0
+2017,Bulgaria,0,8331.0
+2017,Singapore,0,60914.0
+2017,UAE,0,
+2017,Spain,0,28170.0
+2017,Slovak Republic,0,17554.0
+2017,Slovenia,0,23501.0
+2017,Croatia,0,13412.0
+2016,Saudi Arabia,0,19879.0
+2016,Turkey,0,10821.0
+2016,Taiwan,0,23091.0
+2016,Morocco,0,2897.0
+2016,Hungary,0,12992.0
+2016,Ireland,0,63197.0
+2016,Greece,0,18116.0
+2016,Malaysia,0,9818.0
+2016,Canada,0,42322.0
+2016,Israel,0,37322.0
+2016,Mexico,0,8740.0
+2016,UAE,0,
+2016,South Africa,0,5273.0
+2016,Hong Kong,0,43731.0
+2016,Italy,0,30940.0
+2016,Bulgaria,0,7546.0
+2016,Netherlands,0,46008.0
+2016,Czech Republic,0,18463.0
+2016,Singapore,0,56828.0
+2016,Slovak Republic,0,16506.0
+2016,Slovenia,0,21623.0
+2016,Croatia,0,12360.0
+2016,New Zealand,0,40106.0
+2020,Turkey,0,52900.0
+2020,Hungary,0,77200.0
+2020,Greece,0,15500.0
+2020,Malaysia,0,3150.0
+2020,Israel,0,22500.0
+2020,Mexico,0,8500.0
+2020,Belgium,0,25000.0
+2020,Czech Republic,0,8130.0
+2020,South Africa,0,16200.0
+2020,Denmark,0,9800.0
+2020,Bulgaria,0,20490.0
+2020,UAE,0,
+2020,Slovak Republic,0,10500.0
+2020,Slovenia,0,53240.0
+2020,Croatia,0,89000.0
+2020,New Zealand,0,26900.0
+2018,Greece,0,20324.0
+2018,Malaysia,0,11373.0
+2018,Czech Republic,0,23047.0
+2018,UAE,0,
+2018,Belgium,0,47491.0
+2018,Brazil,0,9001.0
+2018,Austria,0,51525.0
+2018,Taiwan,0,25792.0
+2018,Morocco,0,3222.0
+2018,Mexico,0,9673.0
+2018,Hungary,0,16151.0
+2018,Turkey,0,9370.0
+2018,Croatia,0,14920.0
+2018,Slovak Republic,0,19428.0
+2018,Israel,0,41720.0
+2018,South Africa,0,6374.0
+2018,Hong Kong,0,48543.0
+2018,Denmark,0,61391.0
+2018,Slovenia,0,26055.0
+2018,Finland,0,50021.0
+2018,Spain,0,30338.0
+2018,Bulgaria,0,9424.0
+2019,Saudi Arabia,0,23140.0
+2019,Norway,0,75420.0
+2019,Austria,0,50277.0
+2019,Turkey,0,9042.0
+2019,Sweden,0,51610.0
+2019,Poland,0,15595.0
+2019,Taiwan,0,25909.0
+2019,Morocco,0,3204.0
+2019,Hungary,0,16476.0
+2019,Ireland,0,78661.0
+2019,Greece,0,19583.0
+2019,Malaysia,0,11415.0
+2019,Canada,0,46195.0
+2019,Israel,0,43641.0
+2019,Mexico,0,9863.0
+2019,Belgium,0,46117.0
+2019,Czech Republic,0,23102.0
+2019,Hong Kong,0,48756.0
+2019,Italy,0,33190.0
+2019,Bulgaria,0,9738.0
+2019,UAE,0,
+2019,Slovak Republic,0,19329.0
+2019,Slovenia,0,25739.0
+2019,Croatia,0,14853.0
+2019,New Zealand,0,42084.0
+2011,Hungary,0,14151.0
+2011,Greece,0,25916.0
+2011,Malaysia,0,10399.0
+2011,Israel,0,33669.0
+2011,Mexico,0,10203.0
+2011,South Africa,0,8007.0
+2011,Hong Kong,0,35142.0
+2011,Italy,0,38599.0
+2011,Bulgaria,0,7806.0
+2011,Morocco,0,3047.0
+2011,Spain,0,31636.0
+2011,Slovak Republic,0,18338.0
+2011,Slovenia,0,25095.0
+2011,Croatia,0,14567.0
+2011,New Zealand,0,38438.0
+2011,Czech Republic,0,21717.0
+2011,Belgium,0,47349.0
+2011,Turkey,0,11336.0
+2011,UAE,0,
+2010,Brazil,0,11286.0
+2010,South Korea,0,23087.0
+2010,Taiwan,0,19197.0
+2010,Belgium,0,44142.0
+2010,Morocco,0,2840.0
+2010,Hungary,0,13114.0
+2010,Greece,0,26918.0
+2010,Malaysia,0,9041.0
+2010,Mexico,0,9271.0
+2010,UAE,0,
+2010,Denmark,0,58041.0
+2010,Bulgaria,0,6810.0
+2010,Australia,0,52022.0
+2010,Czech Republic,0,19808.0
+2010,Slovak Republic,0,16727.0
+2010,Croatia,0,13924.0
+2015,Italy,0,30230.0
+2015,Singapore,0,55647.0
+2015,Finland,0,42785.0
+2015,Denmark,0,53255.0
+2015,South Africa,0,5735.0
+2015,Turkey,0,10949.0
+2015,Morocco,0,2875.0
+2015,Austria,0,44178.0
+2015,Ireland,0,61995.0
+2015,Slovak Republic,0,16309.0
+2015,Slovenia,0,20882.0
+2015,New Zealand,0,38616.0
+2015,Czech Republic,0,17716.0
+2015,UAE,0,
+2014,India,0,1574.0
+2014,Saudi Arabia,0,24464.0
+2014,Turkey,0,12096.0
+2014,Poland,0,14348.0
+2014,Taiwan,0,22874.0
+2014,Morocco,0,3172.0
+2014,Hungary,0,14246.0
+2014,Greece,0,21761.0
+2014,Malaysia,0,11319.0
+2014,Mexico,0,10922.0
+2014,Czech Republic,0,19745.0
+2014,South Africa,0,6433.0
+2014,Hong Kong,0,40315.0
+2014,Bulgaria,0,7874.0
+2014,Singapore,0,57563.0
+2014,UAE,0,
+2014,Spain,0,29462.0
+2014,Slovak Republic,0,18671.0
+2014,Slovenia,0,24215.0
+2014,Croatia,0,13600.0
+2014,New Zealand,0,44553.0
+2014,Russia,0,14096.0
+2012,New Zealand,0,39983.0
+2012,Hong Kong,0,36731.0
+2012,Denmark,0,58508.0
+2012,Bulgaria,0,7393.0
+2012,Slovak Republic,0,17460.0
+2012,Slovenia,0,22643.0
+2012,Croatia,0,13238.0
+2012,Netherlands,0,50073.0
+2012,Malaysia,0,10817.0
+2012,Czech Republic,0,19730.0
+2012,UAE,0,
+2012,Norway,0,101524.0
+2012,Austria,0,48568.0
+2012,South Korea,0,25467.0
+2012,Turkey,0,11707.0
+2012,Morocco,0,2913.0
+2012,Hungary,0,12918.0
+2012,Switzerland,0,83538.0
+2012,Greece,0,22243.0
+2013,Norway,0,102913.0
+2013,UAE,0,
+2013,Czech Republic,0,19916.0
+2013,Belgium,0,46745.0
+2013,Brazil,0,12300.0
+2013,Croatia,0,13642.0
+2013,New Zealand,0,42963.0
+2013,Slovenia,0,23497.0
+2013,Bulgaria,0,7652.0
+2013,Hungary,0,13687.0
+2013,Switzerland,0,85112.0
+2013,Greece,0,21875.0
+2013,Singapore,0,56967.0
+2013,Morocco,0,3122.0
+2013,Taiwan,0,21973.0
+2013,Denmark,0,61191.0
+2013,South Africa,0,6832.0
+2013,Mexico,0,10725.0
+2013,Malaysia,0,10970.0
+2013,Slovak Republic,0,18237.0
+2013,Turkey,0,12519.0
+2016,Norway,1,70459.0
+2010,Singapore,1,47237.0
+2015,Spain,1,25732.0
+2014,Norway,1,97019.0
+2016,Spain,1,26505.0
+2015,Greece,1,18168.0
+2019,India,1,2104.0
+2015,Israel,1,35777.0
+2013,Saudi Arabia,1,24845.0
+2018,Norway,1,81734.0
+2011,Saudi Arabia,1,23746.0
+2012,Singapore,1,55546.0
+2013,Israel,1,36309.0
+2017,Belgium,1,44289.0
+2010,South Africa,1,7329.0
+2018,New Zealand,1,42950.0
+2011,Finland,1,51082.0
+2017,Mexico,1,9278.0
+2013,Hong Kong,1,38404.0
+2015,Croatia,1,11783.0
+2013,Finland,1,49878.0
+2014,Israel,1,37679.0
+2019,Spain,1,29614.0
+2014,Australia,1,62511.0
+2012,Israel,1,32511.0
+2019,Denmark,1,59822.0
+2011,Ireland,1,51849.0
+2018,Switzerland,1,82818.0
+2010,Switzerland,1,74606.0
+2011,India,1,1458.0
+2015,Taiwan,1,22780.0
+2016,Austria,1,45238.0
+2013,India,1,1450.0
+2015,Malaysia,1,9955.0
+2010,Hong Kong,1,32550.0
+2016,Belgium,1,41998.0
+2011,South Korea,1,25096.0
+2013,Austria,1,50717.0
+2012,Brazil,1,12370.0
+2020,Austria,1,33042.0
+2011,Netherlands,1,54159.0
+2015,Hong Kong,1,42432.0
+2010,Slovenia,1,23510.0
+2013,Netherlands,1,52184.0
+2020,Morocco,1,7180.0
+2017,Finland,1,46317.0
+2012,Sweden,1,58038.0
+2019,Netherlands,1,52448.0
+2015,Australia,1,56756.0
+2011,Austria,1,51375.0
+2011,Norway,1,100601.0
+2015,Mexico,1,9606.0
+2013,Ireland,1,51590.0
+2019,Russia,1,11585.0
+2014,Brazil,1,12113.0
+2018,Italy,1,34520.0
+2015,Belgium,1,40992.0
+2011,Denmark,1,61754.0
+2014,Sweden,1,60020.0
+2019,Finland,1,48686.0
+2015,Netherlands,1,45175.0
+2015,Hungary,1,12652.0
+2019,Singapore,1,65233.0
+2014,Austria,1,51717.0
+2014,Switzerland,1,86606.0
+2012,Belgium,1,44673.0
+2012,Finland,1,47711.0
+2012,South Africa,1,7501.0
+2015,Bulgaria,1,7054.0
+2016,Denmark,1,54664.0
+2014,Denmark,1,62549.0
+2010,Turkey,1,10672.0
+2017,Netherlands,1,48675.0
+2018,Australia,1,57396.0
+2012,Mexico,1,10242.0
+2020,Spain,1,77000.0
+2018,Saudi Arabia,1,23339.0
+2013,South Korea,1,27183.0
+2020,Hong Kong,1,62200.0
+2017,New Zealand,1,42849.0
+2012,Ireland,1,48918.0
+2017,Canada,1,45149.0
+2014,Belgium,1,47701.0
+2012,Russia,1,15421.0
+2014,South Korea,1,29250.0
+2016,Poland,1,12432.0
+2017,Ireland,1,69822.0
+2017,Russia,1,10720.0
+2015,Norway,1,74356.0
+2014,Ireland,1,55493.0
+2013,Poland,1,13781.0
+2011,Brazil,1,13246.0
+2012,Saudi Arabia,2,25243.0
+2017,Sweden,2,53792.0
+2010,Saudi Arabia,2,19263.0
+2013,Spain,2,29060.0
+2014,Italy,2,35518.0
+2019,South Korea,2,31762.0
+2017,Denmark,2,57141.0
+2011,Taiwan,2,20866.0
+2016,Sweden,2,51965.0
+2018,Singapore,2,66189.0
+2010,Spain,2,30503.0
+2015,Russia,2,9313.0
+2010,France,2,40638.0
+2010,Poland,2,12600.0
+2016,Switzerland,2,80172.0
+2020,Sweden,2,31100.0
+2018,India,2,2006.0
+2014,France,2,43011.0
+2017,Austria,2,47549.0
+2011,Singapore,2,53890.0
+2018,Netherlands,2,53048.0
+2013,Australia,2,68150.0
+2020,Russia,2,27271.0
+2014,Finland,2,50260.0
+2019,Germany,2,46259.0
+2018,Russia,2,11371.0
+2018,Ireland,2,78621.0
+2015,Brazil,2,8814.0
+2010,Norway,2,87694.0
+2012,India,2,1444.0
+2015,Saudi Arabia,2,20628.0
+2010,Israel,2,30694.0
+2020,Poland,2,13600.0
+2010,Ireland,2,48715.0
+2012,Taiwan,2,21295.0
+2015,India,2,1606.0
+2020,Australia,2,15200.0
+2010,Austria,2,46858.0
+2010,Finland,2,46460.0
+2017,Poland,2,13861.0
+2016,Finland,2,43784.0
+2017,Brazil,2,9925.0
+2010,New Zealand,2,33700.0
+2015,Sweden,2,51545.0
+2013,Canada,2,52653.0
+2010,Italy,2,36001.0
+2020,Finland,2,19300.0
+2017,South Korea,2,31617.0
+2019,Switzerland,2,81994.0
+2013,Sweden,3,61127.0
+2020,South Korea,3,45100.0
+2020,Taiwan,3,58500.0
+2014,Canada,3,50893.0
+2020,Norway,3,10400.0
+2018,Poland,3,15461.0
+2011,Australia,3,62518.0
+2019,Brazil,3,8717.0
+2018,France,3,41631.0
+2012,Spain,3,28324.0
+2012,Italy,3,35054.0
+2016,South Korea,3,29289.0
+2019,South Africa,3,6001.0
+2012,Poland,3,13146.0
+2016,Australia,3,49971.0
+2014,Netherlands,3,52830.0
+2020,Switzerland,3,12150.0
+2020,India,3,46500.0
+2017,Australia,3,54066.0
+2011,Sweden,3,60756.0
+2012,Australia,3,68012.0
+2018,Sweden,3,54589.0
+2013,Italy,3,35550.0
+2016,Brazil,3,8710.0
+2010,China,3,4550.0
+2018,South Korea,3,33340.0
+2016,United Kingdom,3,41064.0
+2017,India,3,1982.0
+2010,Netherlands,3,50950.0
+2012,Canada,4,52678.0
+2015,Poland,4,12572.0
+2011,Poland,4,13894.0
+2020,Brazil,4,46500.0
+2012,China,4,6317.0
+2018,Canada,4,46313.0
+2016,Russia,4,8705.0
+2010,Sweden,4,52869.0
+2013,Russia,4,15975.0
+2017,Italy,4,32407.0
+2020,Singapore,4,1876.0
+2016,India,4,1733.0
+2010,India,4,1358.0
+2015,Switzerland,4,82082.0
+2017,Saudi Arabia,4,20804.0
+2010,Russia,4,10675.0
+2015,Canada,4,43586.0
+2011,Canada,5,52087.0
+2018,United Kingdom,5,43043.0
+2014,Germany,5,47960.0
+2015,South Korea,5,28732.0
+2020,Saudi Arabia,5,37300.0
+2019,Australia,5,54907.0
+2010,Canada,5,47448.0
+2019,France,5,40494.0
+2014,United Kingdom,5,47426.0
+2011,Switzerland,5,88416.0
+2017,France,6,38812.0
+2011,China,6,5618.0
+2017,United Kingdom,6,40361.0
+2014,China,6,7679.0
+2013,United Kingdom,7,43445.0
+2013,France,7,42593.0
+2013,China,7,7051.0
+2010,Germany,7,41532.0
+2020,Ireland,7,46000.0
+2012,Germany,7,43858.0
+2019,Japan,7,40247.0
+2011,France,7,43791.0
+2010,Japan,8,44508.0
+2016,France,8,37037.0
+2011,Russia,8,14311.0
+2020,United Kingdom,8,36060.0
+2019,United Kingdom,8,42300.0
+2011,Japan,8,48168.0
+2013,Germany,8,46286.0
+2020,Italy,8,50100.0
+2012,France,8,40875.0
+2014,Japan,9,38109.0
+2012,United Kingdom,9,42463.0
+2010,United Kingdom,9,39436.0
+2012,Japan,9,48603.0
+2016,Japan,9,38762.0
+2011,United Kingdom,10,42039.0
+2018,Germany,10,47639.0
+2015,China,10,8067.0
+2013,Japan,10,40454.0
+2011,Germany,10,46645.0
+2017,Japan,11,38387.0
+2016,Germany,11,42099.0
+2020,Canada,13,39800.0
+2017,Germany,13,44350.0
+2015,France,13,36638.0
+2015,United Kingdom,15,44975.0
+2020,Netherlands,15,33800.0
+2015,Japan,15,34524.0
+2018,Japan,16,39159.0
+2014,United States,17,55048.0
+2016,China,17,8148.0
+2020,Germany,19,47200.0
+2017,China,20,8879.0
+2015,Germany,21,41140.0
+2020,France,21,41800.0
+2019,United States,23,65281.0
+2019,China,26,10262.0
+2018,United States,27,62997.0
+2020,Japan,31,25200.0
+2010,United States,32,48468.0
+2016,United States,32,57928.0
+2013,United States,37,53118.0
+2017,United States,39,59958.0
+2015,United States,40,56823.0
+2011,United States,48,49887.0
+2018,China,56,9977.0
+2012,United States,59,51611.0
+2020,United States,106,37375.0
+2020,China,107,54200.0
