@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+	<title>OCR on Image</title>
+	<style type="text/css">
+		.select_product option{
+			width: 200px;
+		}
+	</style>
+</head>
+<body>
+	<nav class="navbar navbar-light bg-dark">
+		<div class="container">
+			<a class="navbar-brand text-danger" href="/">Home</a>
+		</div>
+	</nav>
+	<div class="container">
+		{% if name %}
+		<div class="row">
+			<div class="col col-12 col-md-6 shadow mt-4 pt-3 mx-auto">
+				<form action="{{ url_for('predict')}}" method = "POST">
+
+					<div class="form-group mt-4">
+				 		<label for="exampleFormControlSelect1">Please Select a product for OCR</label><br>
+
+							<div class="input-group">
+							  <div class="custom-file">
+							  		<div class="select-wrap">
+									  	<select  name="productName" style="width: 100%; padding: 10px;">
+									  		<option class="select_product" value="">Select</option>
+											{% for i in name %}
+										    	<option class="select_product" value="{{i}}">{{i}}</option>
+											{% endfor %}
+								  		</select>
+									</div>
+							  </div>
+							</div>				
+						</div>
+
+					  <button type="submit" class="btn btn-danger pr-5 pl-5 pt-2 pb-2 mt-2 mb-4">Detect</button>
+				</form>
+			</div>
+		</div>
+		{% endif %}
+
+		<div class="row mt-4 justify-content-center">
+			{% if normal_fname %}
+	    	<div class="col-12 col-md-6 text-center"> 
+	    		<div class="image-container">
+	        		<p class="text-center"><h3>Original Image </h3></p>
+	        		<a href="/static/normal/{{normal_fname}}" target="_new"><img class="h-50 w-50 float-center img-thumbnail img-fluid" src="/static/normal/{{normal_fname}}"></a>
+	    		</div>
+			</div>
+			{% endif %}
+
+			{% if detect_fname %}
+	    	<div class="col-12 col-md-6 text-center">
+	    		<div class="image-container">
+	        		<p class="text-center"><h3>Detected Image </h3></p>
+	        		<a href="/static/detect/{{detect_fname}}" target="_new"><img class="h-50 w-50 float-center img-thumbnail img-fluid" src="/static/detect/{{detect_fname}}"></a>
+	    		</div>
+			</div>
+			{% endif %}
+	 	</div>
+	 	
+	 	<div class="row justify-content-center mb-4 pb-4 pt-1">
+	 		<div class="col col-12 text-center">
+	 			{% if no_text %}
+	 				<h5>{{no_text}}</h5>
+	 			{% endif %}
+	 			{% if product_name %}
+	 			<h3> Detected Text</h3>
+	 				{% for i in product_name %}
+						<h5>{{i}}</h5>
+					{% endfor %}
+				{% endif %}
+	 		</div>
+	 	</div>
+	</div>
+</body>
+</html>
+<script type="text/javascript">
+	$('option').each(function() {
+	  var optionText = this.text;
+	  var newOption = optionText.substring(0, 106);
+	  $(this).text(newOption);
+	});
+</script>

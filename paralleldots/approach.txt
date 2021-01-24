@@ -1,0 +1,16 @@
+1.Data cleaning
+- since there were a lot of images that do not contain any text, those data should be removed
+- We can filter down the data by the "product_category_tree" because there are certain categories like clothes, furniture, automobile parts that do not contain any text. 
+- Each product contain multiple images in an array, decide to use the first image which is usually large and clear images
+- Check certain category contain any image or not by opening the image link in the browser
+- Add all the category name that contains text in an array and create a final csv file contain only the product name and the image URL
+
+2. OCR text detection
+- I have used the offical implementation of CRAFT repo to run the pre trained model of easyOCR
+- Image processing did not require because it handed it internally 
+- pass in the image to the model and generate a bounding box on the image
+
+3. Building Interface
+- Decided to go with flask because it gives more flexibility in designing 
+- Show all the product name in a dropdown, as soon as the user select and click on button image will be download and save in the folder
+- The save image will pass to the mode for text detection and detected text will be pass to the interface with the detected image
