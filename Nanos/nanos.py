@@ -93,3 +93,6 @@ def generate_invoice(ad_campaign_id):
         vat_amount = charge_customer_invoice_details['invoice']['total_tax_amounts'],
         net_amount = (charge_customer_invoice_details['invoice']['total'] - charge_customer_invoice_details['invoice']['total_tax_amounts'])
     )
+
+
+generate_invoice(campaign_ids = list_all_campaigns())
