@@ -1,0 +1,8 @@
+Considering input, I decided to approach this with basic pre-processing to filter out the question and answer from the input text.
+I notice a pattern in the question and answer that is it question starts with the question number and end with '?' and the answer starts with the 'Answer' keyword.
+Filter question
+Text end with '?' is considered as questions.
+Filter Answer
+split text starts with the answer, and filter out the question start with the question number from the text.
+
+I have use pandas to create a dataframe.
