@@ -18,7 +18,7 @@ def main(input_txt):
 
 	# filter answer
 	for no, ans in enumerate(ans_txt):
-	    answer.append(ans.split(str(no+2)+'.')[0].replace('\n', '').strip())
+	    answer.append(ans.split(str(no+2)+'.')[0])
 
 	# create a dataframe
 	for no,i in enumerate(zip(question,answer)):
